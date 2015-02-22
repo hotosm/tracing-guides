@@ -1,0 +1,4 @@
+baseurl: '/tracing-guides'
+permalink: pretty
+exclude: [CNAME]
+markdown: rdiscount

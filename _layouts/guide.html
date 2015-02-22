@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{{ page.content }}
+
+<ul>
+  {% for post in site.categories['tip'] %}
+    {% for tip in page.tips %}
+      {% if tip == post.title %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</ul>
+
+

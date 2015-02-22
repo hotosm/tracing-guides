@@ -1,0 +1,28 @@
+---
+---
+
+<!-- list guides -->
+
+<h1>Guides</h1>
+
+<ul>
+  {% for post in site.categories['guide'] %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- list tips -->
+
+<h1>Tips</h1>
+
+<ul>
+  {% for post in site.categories['tip'] %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
