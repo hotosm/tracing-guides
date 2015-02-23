@@ -8,7 +8,7 @@
 <ul>
   {% for post in site.categories['guide'] %}
     <li>
-      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      <a href="/tracing-guides{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
@@ -21,7 +21,7 @@
 <ul>
   {% for post in site.categories['tip'] %}
     <li>
-      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      <a href="/tracing-guides{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
