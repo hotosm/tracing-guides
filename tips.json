@@ -3,7 +3,8 @@
 [{
 {% for tip in site.categories['tip'] %}
     {
-        "title":"{{ tip.title }}"
+        "title":"{{ tip.title }}",
+        "editor":"{{ tip.editor }}"
     }
     {% unless forloop.last %},{% endunless %}
 {% endfor %}
