@@ -1,0 +1,12 @@
+---
+---
+[{
+{% for guide in site.categories['guide'] %}
+    {
+        "title":"{{ guide.title }}",
+        "editor":"{{ guide.editor }}"
+        
+    }
+    {% unless forloop.last %},{% endunless %}
+{% endfor %}
+}]
