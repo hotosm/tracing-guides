@@ -9,7 +9,7 @@ layout: default
     {% for tip in page.tips %}
       {% if tip == post.title %}
     <li>
-      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+      <a href="/tracing-guides{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
       {% endif %}
