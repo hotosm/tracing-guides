@@ -3,12 +3,12 @@
 
 <!-- list guides -->
 
-<h1>Guidess</h1>
+<h1>Guides</h1>
 
 <ul>
   {% for post in site.categories['guide'] %}
     <li>
-      <a href="{{site.basurl}}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
@@ -21,7 +21,7 @@
 <ul>
   {% for post in site.categories['tip'] %}
     <li>
-      <a href="{{site.basurl}}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
