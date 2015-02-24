@@ -3,9 +3,33 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-</head>
-<body>
-{{content}}
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ site.name }} | {{ page.title }}</title>
+
+    <!-- Prefetch DNS -->
+    <link rel="dns-prefetch" href="//ajax.googleapis.com" />
+    <link rel="dns-prefetch" href="//openstreetmap.org" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+
+    <!-- JavaScript -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.4/angular.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.4/angular-route.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <style type="text/css">[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}</style>
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row" style="height:51px;">
+        {% include header.html %}
+      </div>
+      <div class="row" style="">
+        {{content}}
+      </div>
+  </body>
 </html>
