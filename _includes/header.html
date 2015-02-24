@@ -11,18 +11,21 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li id="nav_dashboard">
-          <a href="{{ site.baseurl}}/guides">Guides</a>
+        <li id="nav_main">
+          <a href="{{ site.baseurl }}">{{ site.name }}</a>
         </li>
-        <li id="nav_map">
-          <a href="{% url "stats_map" %}">Tips</a>
+        <li id="nav_guides">
+          <a href="{{ site.baseurl }}/guides">Guides</a>
+        </li>
+        <li id="nav_tips">
+          <a href="{{ site.baseurl }}/tips">Tips</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right" style="min-width:380px">
         <li id="nav_github">
           <a href="https://github.com/hotosm/tracing-guides">Contribute!</a>
         </li>
-        <li id="nav_issue">
+        <li id="nav_issues">
           <a href="https://github.com/hotosm/tracing-guides/issues">Issues</a>
         </li>
         <li id="nav_learnosm">

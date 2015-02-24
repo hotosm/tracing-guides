@@ -1,12 +1,12 @@
 ---
 ---
-[{
+[
 {% for guide in site.categories['guide'] %}
     {
         "title":"{{ guide.title }}",
-        "editor":"{{ guide.editor }}"
-        
+        "editor":"{{ guide.editor }}",
+        "link_page": "{{ site.baseurl}}/{{ guide.url }}"        
     }
     {% unless forloop.last %},{% endunless %}
 {% endfor %}
-}]
+]
