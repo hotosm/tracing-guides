@@ -1,3 +1,4 @@
+name: 'OSM Tracing Guides'
 baseurl: '/tracing-guides'
 permalink: pretty
 exclude: [CNAME]

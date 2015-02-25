@@ -1,14 +1,11 @@
 ---
 layout: default
-title: 'Main'
+title: 'Guides'
 ---
 
 <!-- list guides -->
 <div class="col-md-12">
   <div class="page-header" style="padding-left:10px;"><h3>{{ page.title }}</h3></div>
-
-  <h4>Guides</h4>
-
   <table class="table table-striped table-bordered">
     <thead>
       <th>Name</th>
@@ -21,24 +18,4 @@ title: 'Main'
       {% endfor %}
     </tbody>
   </table>
-
-  <h4>Tips</h4>
-
-  <table class="table table-striped table-bordered">
-    <thead>
-      <th>Name</th>
-      <th>Tags</th>
-    </thead>
-    <tbody>
-      {% for post in site.categories['tip'] %}
-      <tr>
-        <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
-        <td>{{ post.tags | array_to_sentence_string }}</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-
 </div>
-
-
