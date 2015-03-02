@@ -3,8 +3,8 @@ title: ID_alignment
 category: tip
 image: image-link
 editor: ID
+tags: [imagery,alignment]
 ---
-
 
 ## ID alignment
 
