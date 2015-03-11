@@ -1,5 +1,5 @@
 name: 'OSM Tracing Guides'
 baseurl: '/tracing-guides'
-permalink: pretty
+permalink: none
 exclude: [CNAME]
 markdown: rdiscount
