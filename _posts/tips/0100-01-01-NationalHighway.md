@@ -3,8 +3,8 @@ tipid: nhighway
 title: National Highway
 category: tip
 images:
-  - https://cloud.githubusercontent.com/assets/4990708/6477424/e1d09a28-c1f1-11e4-930a-485b20df2477.PNG
-  - https://cloud.githubusercontent.com/assets/4990708/6477428/ea98ae66-c1f1-11e4-81f8-451dc1cf7ef6.PNG
+  - https://cloud.githubusercontent.com/assets/4990708/6589781/260e6910-c77c-11e4-9d70-b6f8b0dd3895.PNG
+  - https://cloud.githubusercontent.com/assets/4990708/6589785/53ab5e5a-c77c-11e4-99e4-ead5818b8a6f.PNG
 tags: [Bangladesh, Highway, Trunk, Transportation, National, Highway]
 ---
 
