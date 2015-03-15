@@ -62,13 +62,13 @@
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
                     <h2 class="section-heading">{{ post.title }}</h2>                    
-                    {{ post.content }}
+                    {{ post.content }}size:{{ post.images.size }}
                 </div>
-                {% if post.images.length == 2 %}
-                  <div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-2{% endif %}">
+                {% if post.images.size == 2 %}
+                  <div class="col-lg-5 col-sm-6 col-lg-pull-6 {% if thecycle == 'odd' %}col-lg-offset-2{% endif %}">
                     <img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}">
                   </div>
-                  <div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-7{% endif %} buffer-top">
+                  <div class="col-lg-5 col-sm-6 col-lg-pull-6 {% if thecycle == 'odd' %}col-lg-offset-7{% endif %} buffer-top">
                     <img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}">
                   </div>
                 {% else %}
