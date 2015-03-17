@@ -4,6 +4,7 @@ title: Tracing Tall Buildings
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/7816685/6696652/4a2f3ba4-ccc1-11e4-99f1-d23c259a2f21.gif
+  - https://cloud.githubusercontent.com/assets/7816685/6696652/4a2f3ba4-ccc1-11e4-99f1-d23c259a2f21.gif
 tags: [Dhaka, iD, buildings]
 ---
 
