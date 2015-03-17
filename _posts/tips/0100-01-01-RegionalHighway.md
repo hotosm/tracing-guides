@@ -8,11 +8,11 @@ images:
 tags: [Bangladesh, Highway, Primary, Transportation, Regional]
 ---
 
-#### Highway = Primary; (Regional Highway):
+#### highway = primary:
 
-A Regional Highway (primary) is the classification for all primary roads in Bangladesh as defined by the Roads and Highways Department of the Ministry of Communications (RHD).
+A Regional Highway (primary) is the classification for all primary roads in Bangladesh as defined by the Roads and Highways Department of the Ministry of Communications (RHD).  This guidance comes from the [Bangladesh OSM wiki](http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh). Regional Highways are paved, often do not have road surface markings, and are wide enough to support two land traffic.
 
-This guidance come from the [Bangladesh OSM wiki](http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh). Regional Highways are paved, do not have road surface markings, and are wide enough to support two land traffic.
+Reference [this list of roads and highways in Bangladesh](http://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh).
 
 
 
