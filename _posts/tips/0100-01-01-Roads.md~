@@ -1,0 +1,56 @@
+---
+layout: {{ layout }}
+title: Roads 
+modified:
+categories: tip
+excerpt:
+tags: [Roads, iD]
+image:
+  feature:
+  teaser:
+  thumb:
+---
+Roads are some of the most significant features we map. While roads are easy to trace off of Satellite imagery there is a large vocabulary for classifying different types of roads.
+
+### Tracing roads
+
+Tracing a road is simple. Use the Draw (A) tool in JOSM or the Line tool in iD and draw the road following its course. The trick is to use the right amount of nodes to describe a way. Too few make the road appear very jagged. Too many are unnecessary data and make the road hard to edit later.
+
+Look at the picture below, the first example was traced with too few nodes, it is too jagged, the second example was traced with too many nodes adding redundant information, the last one is traced right:
+
+![Too few / too many / right amount of nodes in a curve](https://cloud.githubusercontent.com/assets/7431774/6626269/cef8b7e2-c8cb-11e4-8cda-7d1246185bf8.png)
+
+Roads must be connected where they intersect. Make sure the roads connect to each other where they cross. You should see a node appear at each intersection (see below).
+
+![](https://cloud.githubusercontent.com/assets/7431774/6626271/cefa345a-c8cb-11e4-8704-00197078a9e2.png)
+
+And follow the flow of roads where possible. On the left the road was traced with a "detour" for no apparant reason. On the right you see how the road tracing follows the logical flow of the road.
+
+![wrong: "map around corners", right: follow flow](https://cloud.githubusercontent.com/assets/7431774/6628807/cf1f5fec-c8de-11e4-9716-cadd2d33cf2d.jpg)
+
+### Everything's a highway
+
+No matter whether it's an overland road, a city street, a foot path or a cycleway, you'll find it tagged with the `highway` key. Here are some examples of common tags:
+
+- `highway=residential` - a residential road in a city
+- `highway=motorway` - a fast restricted access road
+- `highway=footway` - a foot path
+- `highway=cycleway` - a cycleway
+
+Roads often come with secondary tags, further specifying type or attribute of a road:
+
+- `oneway=yes` says a road is a one way
+- `lanes=2` says how many lanes a road has
+- `name=Broadway` designates a street name
+- `access=private|permissive` describes the level of access on a road
+- `service=parking_aisle|driveway` further specifies the type of `highway=service`
+
+### Oneways
+
+Oneways are mapped by simply adding a `oneway=yes` tag to the road's way. Keep in mind that ways have a directionality. So the road will be a oneway in the direction of the way. If you need to change the flow of the one way, you have two options:
+
+- Change the direction of the way (Tool > Revers ways in JOSM or the `<<` context icon on iD)
+- Or tag with `oneway=-1` - use this approach where the way's directionality already governs another attribute such as bus route.
+
+
+OpenStreetMap Wiki: [Key:oneway](http://wiki.openstreetmap.org/wiki/Key:oneway)
