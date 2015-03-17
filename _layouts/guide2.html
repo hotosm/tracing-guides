@@ -69,34 +69,34 @@
                 </div>
                 {% if post.images.size == 2 %}
                   <div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-2{% else %}col-lg-pull-6{% endif %}">
-                    <img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}">
+                    <a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
                   </div>
                   <div class="clearfix"></div>
                   <div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-7{% else %}col-lg-pull-6{% endif %} buffer-top">
-                    <img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}">
+                   <a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
                   </div>
                 {% else %}
                   {% if thecycle == 'odd' %}
                   <div class="col-lg-5 col-sm-6 col-lg-offset-2">
-                    <img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}">
+                    <a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
                   </div>
                   <div class="clearfix"></div>
                   <div class="col-lg-5 col-sm-6">
-                    <img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}">
+                    <a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
                   </div>
                   <div class="col-lg-5 col-sm-6 col-lg-offset-2 buffer-top">
-                    <img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}">
+                    <a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
                   </div>
                   {% else %}
                   <div class="col-lg-5 col-sm-6 col-lg-pull-6">
-                    <img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}">
+                    <a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
                   </div>
                   <div class="clearfix"></div>
                   <div class="col-lg-5 col-sm-6 buffer-top">
-                    <img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}">
+                    <a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
                   </div>
                   <div class="col-lg-5 col-sm-6 col-lg-offset-2">
-                    <img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}">
+                    <a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
                   </div>
                   {% endif %}
                 {% endif %}
