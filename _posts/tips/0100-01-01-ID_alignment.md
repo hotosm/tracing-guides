@@ -1,5 +1,6 @@
 ---
 title: ID_alignment
+tipid: ID_alignment
 category: tip
 image: image-link
 editor: ID
