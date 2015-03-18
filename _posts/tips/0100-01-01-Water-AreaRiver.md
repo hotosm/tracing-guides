@@ -1,6 +1,6 @@
 ---
 tipid: areariver
-title: Bangladesh Area River
+title: Area River
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6395711/e3938f58-bda7-11e4-8a2f-bd796d18607c.PNG
@@ -8,9 +8,11 @@ images:
   - https://cloud.githubusercontent.com/assets/6749884/6557008/395b0c60-c648-11e4-80de-546ceed965f9.jpg
 tags: [Bangladesh, Water, River, Hydrography]
 ---
+Area feature
+#### Waterway = Riverbank 
 
-#### Waterway = Riverbank (Coastlines & River Areas)
+Most of the large rivers in this region have very jagged coastlines which are incorrect.  These features can easily be adjusted by moving each node to align with the coastline.  Coastlines can vary depending on the time of year, but are generally distinguishable from land by a contrast in color and coastline features.  All smaller rivers and ditches flow into the area rivers.    
 
-Most of the large river area coastline in this region were not collected by hand and are incorrect. River sections can easily be adjusted by moving each node. For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
+For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
 
 Here's an example of an area river feature
