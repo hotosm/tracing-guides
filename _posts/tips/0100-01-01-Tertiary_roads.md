@@ -3,7 +3,7 @@ tipid: tertiary roads
 title: Tertiary Roads
 category: tip
 images:
-  - cloud.githubusercontent.com/assets/2665840/6719919/afdf672a-cd94-11e4-84dd-06e38b16fbeb.jpg
+  - https://cloud.githubusercontent.com/assets/2665840/6720029/9b764622-cd95-11e4-9b9f-de03f3b46af9.jpg
 tags: [tertiary, Vehicles]
 ---
 
