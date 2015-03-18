@@ -1,6 +1,6 @@
 ---
 tipid: gettingstarted brightness settings 2
-title: OSM iD Editor Settings: Brightness Adjustment
+title: OSM iD Editor Settings \:Brightness Adjustment
 category: tip
 tags: [Liberia, iD, custom imagery]
 ---
