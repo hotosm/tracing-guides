@@ -1,8 +1,10 @@
 ---
-tipid: gettingstarted brightness settings 2
-title: OSM iD Editor Settings: Brightness Adjustment
+title: ID_alignment
+tipid: ID_alignment
 category: tip
-tags: [Liberia, iD, custom imagery]
+image: image-link
+editor: ID
+tags: [imagery,alignment]
 ---
 
 Often the default brightness settings in iD editor makes the background imagery difficult to see, but increasing the brightness will help. You can do this in the "Background settings" tab (Shortcut: b).
