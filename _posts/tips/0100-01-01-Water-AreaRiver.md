@@ -11,6 +11,6 @@ tags: [Bangladesh, Water, River, Hydrography]
 
 #### Waterway = Riverbank (Coastlines & River Areas)
 
-Most of the large river area coastline in this region were not collected by hand and are incorrect. River sections can easily be adjusted by moving each node. For more information visit the [Water Wiki](http://wiki.openstreetmap.org/wiki/Water){:target="_blank"}
+Most of the large river area coastline in this region were not collected by hand and are incorrect. River sections can easily be adjusted by moving each node. For more information visit the [Water Wiki](http://wiki.openstreetmap.org/wiki/Water)
 
 Here's an example of an area river feature
