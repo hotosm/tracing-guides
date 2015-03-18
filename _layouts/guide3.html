@@ -50,6 +50,7 @@
   {% for post in site.categories['tip'] %}
     {% if tip == post.tipid %}
       {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
+      <!--helped parse YAML: http://stackoverflow.com/questions/12761152/yaml-front-matter-for-jekyll-and-nested-lists-->
       {% if post.images[0].image.size == 'large' %}
         {% capture section %}c{% endcapture %}
         {% capture divclass %}col-lg-5 col-sm-6 col-lg-offset-4{% endcapture %}
@@ -95,6 +96,7 @@
                       <div class="col-lg-12 col-sm-6 col-lg-offset-1">
                         <br><br>
                         <a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
+                        <br><br>
                       </div>
                     {% else %}
                       <div class="col-lg-5 col-sm-6 col-lg-pull-6">
