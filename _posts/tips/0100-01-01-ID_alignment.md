@@ -2,7 +2,7 @@
 title: ID_alignment
 tipid: ID_alignment
 category: tip
-image: image-link
+images: image-link
 editor: ID
 tags: [imagery,alignment]
 ---
