@@ -3,7 +3,7 @@ tipid: unclassified roads
 title: Unclassified Roads
 category: tip
 images:
-  - https://cloud.githubusercontent.com/assets/2665840/6719950/f0aecce6-cd94-11e4-8d82-a45c815ddc39.jpg
+  - https://cloud.githubusercontent.com/assets/2665840/6720329/73181798-cd98-11e4-9e61-fe83df928ed4.jpg
 tags: [unclassified, Vehicles]
 ---
 
