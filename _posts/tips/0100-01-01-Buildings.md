@@ -1,6 +1,7 @@
 ---
 layout: {{ layout }}
 title: Buildings 
+tipid: Buildings
 modified:
 categories: tip
 excerpt:
