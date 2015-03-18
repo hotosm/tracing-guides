@@ -1,6 +1,6 @@
 ---
-title: iD alignment vector
-tipid: iD vector alignment
+tipid: id alignment vector
+title: iD vector alignment
 category: tip
 images:
   - image:
