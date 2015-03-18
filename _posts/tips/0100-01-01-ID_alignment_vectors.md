@@ -11,8 +11,6 @@ editor: ID
 tags: [imagery,alignment, vector]
 ---
 
-## iD vector alignment
-
 While editing you may encounter a situation where existing features exist that were drawn based on older low-resolution imagery. 
 You need to adjust the existing vectors in iD editor to match the new imagery.
 
