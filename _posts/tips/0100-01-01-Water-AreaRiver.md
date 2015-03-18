@@ -1,6 +1,6 @@
 ---
 tipid: areariver
-title: Bangladesh Area River
+title: Area River
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6395711/e3938f58-bda7-11e4-8a2f-bd796d18607c.PNG
