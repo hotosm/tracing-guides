@@ -4,7 +4,7 @@ title: Classifying Roads in Africa
 categories: tip
 excerpt:
 tags: [roads, iD, unpaved, Africa, Liberia, classifying, highway ]
-image:
+images:
   - https://cloud.githubusercontent.com/assets/9657971/6357358/e6b3d14c-bc31-11e4-934a-4d682a3a17b4.png
   - https://cloud.githubusercontent.com/assets/9657971/6357823/2dd30fd6-bc35-11e4-85f7-c93082b583fe.png
 ---
