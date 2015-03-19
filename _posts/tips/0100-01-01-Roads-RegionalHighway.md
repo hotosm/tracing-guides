@@ -14,8 +14,5 @@ A Regional Highway (primary) is the classification for all primary roads in Bang
 
 Regional Highways are paved, often do not have road surface markings, and are wide enough to support two land traffic.
 
-Reference <a href="http://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh" target="_blank">this list of roads and highways in Bangladesh</a>.
+For additoinal information reference <a href="http://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh" target="_blank">this list of roads and highways in Bangladesh</a>.
 
-
-
-<br/>
