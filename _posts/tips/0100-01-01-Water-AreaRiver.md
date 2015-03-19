@@ -15,4 +15,4 @@ Most of the large rivers in this region have very jagged coastlines which are in
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
 
-Here's an example of an area river feature.
+Here's an example of an area river feature. Notice the rice paddies on either side, we are not tracing these features for this project.
