@@ -13,6 +13,6 @@ Linear feature
 
 A homestead water body is a man-made water catchment located near buildings and houses. Water color will vary greatly depending on the purpose of the catchment. These water bodies can serve multiple purposes, examples include fish ponds, shrimp ponds, irrigation, and livestock during the dry months.   
 
-Visit the [Water wiki](http://wiki.openstreetmap.org/wiki/Water) for more information.
+For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
 
 Here's an example of homestead water bodies.  These features are generally square or rectangular in shape, but can be circular in shape as seen in the image.   
