@@ -11,8 +11,8 @@ tags: [Bangladesh, Highway, Trunk, Transportation, National, Highway]
 
 ### Highway = Trunk:
 
-A National Highway (Trunk) is the highest Road classification in the transportation network as defined by Roads and Highways Department of the Ministry of Communications (RHD).  For a breakdown of the proposed road conventions in Bangladesh please reference the <a href="http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh" target="_blank">Bangladesh OSM wiki</a>.
+A National Highway (Trunk) is the highest Road classification in the transportation network as defined by Roads and Highways Department of the Ministry of Communications (RHD).  For a breakdown of the proposed road conventions in Bangladesh please reference the  <a href="http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh" target="_blank">Bangladesh OSM wiki</a>.
 
 National Highways are paved, have road surface markings, and have multiple lanes. 
 
-For additoinal information reference <a href="http://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh" target="_blank">this list of roads and highways in Bangladesh</a>.
+For additional information reference <a href="http://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh" target="_blank">this list of roads and highways in Bangladesh</a>.
