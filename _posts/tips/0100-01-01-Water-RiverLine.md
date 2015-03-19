@@ -1,5 +1,5 @@
 ---
-tipid: Linear River
+tipid: LinearRiver
 title: River
 category: tip
 images:
