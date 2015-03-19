@@ -11,7 +11,7 @@ tags: [Bangladesh, Water, Ditch, Agriculture]
 Linear feature
 #### Waterway = Ditch (Khal)
 
-A ditch is a small to medium depression built to channel water. Ditches can be used to move water for irrigation, drain water from low lying areas, and are often found alongside the roadside to prevent flooding and help keep roads open during the wet season.  Ditches usually flow to or from a larger body of water, such as a river or large pond.
+A ditch is a small to medium depression built to channel water. Ditches can be used to move water for irrigation, drain water from low lying areas, and are often found along the roadside to prevent flooding and help keep roads open during the wet season.  Ditches usually flow to or from a larger body of water, such as a river or large pond.
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Waterways" target="_blank">Waterways Wiki</a>.
 
