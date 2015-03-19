@@ -11,8 +11,8 @@ tags: [Bangladesh, Water, River, Hydrography]
 Area feature
 #### Waterway = River 
 
-Most of the large rivers in this region have very jagged coastlines which are incorrect.  These features can easily be adjusted by moving each node to align with the coastline.  Coastlines can vary depending on the time of year, but are generally distinguishable from land by a contrast in color and coastline features.  All smaller rivers and ditches flow into the larger area rivers.    
+Most of the large rivers in this region have very jagged coastlines which are incorrect.  These features can easily be adjusted by moving each node to align with the coastline.  Coastlines can vary depending on the time of year, but are generally distinguishable from land by a contrast in color and coastline features.  Smaller rivers and ditches follow gravity and naturally flow into the larger area rivers.    
 
-For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
+For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Waterways" target="_blank">Waterways Wiki</a>.
 
-Here's an example of an area river feature. Notice the rice paddies on either side, we are not tracing rice paddies for this project.
+Here's an example of a linear river flowing into an area river feature. Notice the muddy discharge from the liner river.
