@@ -9,7 +9,7 @@ images:
 tags: [Bangladesh, Water, Pond, Agriculture]
 ---
 Linear feature
-#### Natural = Water; Water = Pond:
+#### Natural = Water; Water = Pond
 
 A homestead water body is a man-made water catchment located near buildings and houses. Water color will vary greatly depending on the purpose of the catchment. These water bodies can serve multiple purposes, examples include fish ponds, shrimp ponds, irrigation, and livestock during the dry months.   
 
