@@ -6,10 +6,7 @@ modified:
 categories: tip
 excerpt:
 tags: [buildings, iD]
-image:
-  feature:
-  teaser:
-  thumb:
+images:
 ---
 Tracing buildings takes good imagery and patience. Take your time and pay attention to angularity, alignment between buildings and reflecting the regularities between buildings. 
 
