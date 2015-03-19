@@ -8,6 +8,7 @@ images:
   - https://cloud.githubusercontent.com/assets/4990708/6731892/9ca252aa-ce1e-11e4-8b91-2ace060e2bfd.jpg
 tags: [Bangladesh, Highway, Trunk, Transportation, National, Highway]
 ---
+Linear feature
 
 ### Highway = Trunk:
 
