@@ -11,8 +11,8 @@ tags: [Bangladesh, Water, River, Hydrography]
 Area feature
 #### Waterway = Riverbank 
 
-Most of the large rivers in this region have very jagged coastlines which are incorrect.  These features can easily be adjusted by moving each node to align with the coastline.  Coastlines can vary depending on the time of year, but are generally distinguishable from land by a contrast in color and coastline features.  All smaller rivers and ditches flow into the area rivers.    
+Most of the large rivers in this region have very jagged coastlines which are incorrect.  These features can easily be adjusted by moving each node to align with the coastline.  Coastlines can vary depending on the time of year, but are generally distinguishable from land by a contrast in color and coastline features.  All smaller rivers and ditches flow into the larger area rivers.    
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
 
-Here's an example of an area river feature
+Here's an example of an area river feature.
