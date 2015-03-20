@@ -20,4 +20,4 @@ Linear rivers and smaller and flow into Area rivers.  For this project, linear r
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Waterways" target="_blank">Waterways Wiki</a>.
 
-Here is an example of a large ditch.  This ditch is used to drain water from adjacent fields so they can be used for agriculture purposes.  Notice the small bridge and large truck in the photo.    
+Here's an example of a linear river flowing into an area river feature. Notice the muddy discharge from the liner river. 
