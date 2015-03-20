@@ -4,7 +4,7 @@ title: Area River
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6395711/e3938f58-bda7-11e4-8a2f-bd796d18607c.PNG
-  - https://cloud.githubusercontent.com/assets/4990708/6395716/e68f55de-bda7-11e4-9553-e684324ea656.PNG
+  - https://cloud.githubusercontent.com/assets/6749884/6696129/4744304c-ccbd-11e4-8392-d1511a2cc771.PNG
   - https://cloud.githubusercontent.com/assets/6749884/6557008/395b0c60-c648-11e4-80de-546ceed965f9.jpg
 tags: [Bangladesh, Water, River, Hydrography]
 ---
@@ -15,4 +15,4 @@ Most of the large rivers in this region have very jagged coastlines which are in
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Waterways" target="_blank">Waterways Wiki</a>.
 
-Here's an example of a linear river flowing into an area river feature. Notice the muddy discharge from the liner river.
+Here's an example of an area river feature. Notice the rice paddies on either side, we are not tracing rice paddies for this project.
