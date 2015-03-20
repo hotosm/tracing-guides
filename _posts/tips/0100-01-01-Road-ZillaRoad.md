@@ -5,6 +5,7 @@ category: tip
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6477820/f18cd392-c1f5-11e4-9cb6-c2130097457d.PNG
   - https://cloud.githubusercontent.com/assets/4990708/6477821/f6e5187c-c1f5-11e4-9519-ec1db2902068.PNG
+  - https://cloud.githubusercontent.com/assets/4990708/6758272/54aa83ce-cf0d-11e4-95f8-1b8f8dc89808.jpg
 tags: [Bangladesh, Road, Zilla, Transportation]
 ---
 Linear feature
