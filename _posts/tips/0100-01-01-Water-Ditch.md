@@ -17,4 +17,4 @@ A ditch is a small to medium depression built to channel water. Ditches can be u
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Waterways" target="_blank">Waterways Wiki</a>.
 
-Here is an example of a large ditch.  This ditch is used to drain water from adjacent fields so they can be used for agriculture purposes.  Notice the bridge and large truck in the photo.     
+Here is an example of a ditch.  This ditch is used to drain water from adjacent fields so they can be used for agriculture purposes.  Notice the small bridge and large truck on the Zilla road in the photo.      
