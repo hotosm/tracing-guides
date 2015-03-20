@@ -15,7 +15,7 @@ A homestead water body is a man-made water catchment located near buildings and 
 
 For more information visit the <a href="http://wiki.openstreetmap.org/wiki/Water" target="_blank">Water Wiki</a>.
 
-####DO NOT Trace rice paddies.
+####DO NOT Trace rice paddies.  Refer to the River Area image for a good example of rice paddies. 
 Rice paddies are the dark green areas on either side of large rivers.  Rice paddies have small embankments which separate them and serve as footpaths.  
 
 Here's an example of homestead water bodies.  These features are generally square or rectangular in shape, but can be circular in shape as seen in the image.   
