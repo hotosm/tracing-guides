@@ -13,7 +13,7 @@ Linear feature
 
 A Regional Highway (primary) is the classification for all primary roads in Bangladesh as defined by the Roads and Highways Department of the Ministry of Communications (RHD). For a breakdown of the proposed road conventions in Bangladesh please reference the <a href="http://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh" target="_blank">Bangladesh OSM wiki</a>.
 
-Regional Highways are paved, often do not have road surface markings, and are wide enough to support two land traffic.
+Regional Highways are paved, often do not have road surface markings, and are wide enough to support two lane traffic.
 
 For additional information reference <a href="http://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh" target="_blank">this list of roads and highways in Bangladesh</a>.
 
