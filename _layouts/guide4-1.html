@@ -50,8 +50,8 @@
 
 {% for tip in page.tips %}
 	{% for post in site.categories['tip'] %}
-		{% if tip == post.tipid %} 
-    			{% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
+		{% if tip == post.tipid %}
+			{% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
                                 <!--helped parse YAML: http://stackoverflow.com/questions/12761152/yaml-front-matter-for-jekyll-and-nested-lists-->	
 			{% if post.images[0].image.size == 'large' %}
 				{% capture section %}c{% endcapture %}
