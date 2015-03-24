@@ -9,7 +9,7 @@ images:
 tags: [Bangladesh, Water, River, Hydrography]
 ---
 Area feature
-#### Waterway = River 
+#### Water
 
 Most of the large rivers in this region have very jagged coastlines which are incorrect.  These features can easily be adjusted by moving each node to align with the coastline.  Coastlines can vary depending on the time of year, but are generally distinguishable from land by a contrast in color and coastline features.  Smaller rivers and ditches follow gravity and naturally flow into the larger area rivers.    
 
