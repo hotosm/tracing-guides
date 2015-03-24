@@ -36,7 +36,7 @@
 
 </head>
 <body>
-{% include header2.html %}
+{% include header2-1.html %}
 <div class="content-section-a">
    <div class="container">     
       <a name="about"></a> 
@@ -47,7 +47,8 @@
 </div>
 
 {% for group in page.tips %}
-  <div class="container">      
+    <a name="{{group.group}}"></a>     
+  <div class="container">
     <h1 class="group-heading">{{ group.group }}</h1> 
   </div>
   {% for tip in group.tips %}
