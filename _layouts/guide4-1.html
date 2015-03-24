@@ -48,13 +48,13 @@
 
 {% for tip in page.tips %}
   {% for post in site.categories['tip'] %}
-    {% if tip == post.tipid or tip.nested %} 
+    {% if tip == post.tipid %} 
     	{% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
       <!--helped parse YAML: http://stackoverflow.com/questions/12761152/yaml-front-matter-for-jekyll-and-nested-lists-->	
 				{% if post.images[0].image.size == 'large' %}
         	{% capture section %}c{% endcapture %}
         	{% capture divclass %}col-lg-5 col-sm-6 col-lg-offset-4{% endcapture %}
-				{% elif thecycle == 'odd' %}
+				{% elsif thecycle == 'odd' %}
 					{% capture section %}a{% endcapture %}
 					{% capture divclass %}col-lg-5 col-sm-6{% endcapture %}
       	{% else %}
@@ -127,22 +127,23 @@
         </div>
     </div>
 			{% endif %}
-		{% if tip.nested %}     
+		{% elsif tip | size > 1 %}     
               
 		
 		<hr class="section-heading-spacer">
     <div class="clearfix"></div>
 		<h2 class="section-heading">{{ tip }}</h2> 
 		 
-			{% for subtip in tip.nested %}
-				{% if post.tipid == subtip %}
+			{% for subtip in tip %}
+				{% for post in site.categories['tip'] %}
+					{% if subtip == post.tipid %}
  
-					{% capture thecycle %}{% cycle 'subeven', 'subodd' %}{% endcapture %}
-						{% if thecycle == 'subodd' %}
-							{% capture divclass %}col-lg-5 col-sm-6{% endcapture %}
-      			{% else %}     	  
-							{% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
-						{% endif %}
+						{% capture thecycle %}{% cycle 'subeven', 'subodd' %}{% endcapture %}
+							{% if thecycle == 'subodd' %}
+								{% capture divclass %}col-lg-5 col-sm-6{% endcapture %}
+      				{% else %}     	  
+								{% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
+							{% endif %}
 				   <div class="content-section-{{ section }}">
         			<div class="container">      
             		<div class="row">
@@ -206,7 +207,10 @@
         </div>
     </div>
 					
-			  
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+
 		{% endif %}
   {% endfor %}
 {% endfor %}
