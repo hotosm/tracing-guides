@@ -175,3 +175,17 @@ p.copyright {
 .buffer-top {
     margin-top: 20px;
 }
+
+.row {
+      position: relative;
+}
+.align-bottom {
+    position: absolute;
+    bottom:0;
+}
+.align-right {
+  right: 0;
+}
+.align-left {
+  left: 0;
+}
