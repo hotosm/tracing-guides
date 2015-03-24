@@ -111,6 +111,11 @@ h6 {
     border-top: 3px solid #e7e7e7;
 }
 
+.group-heading {
+    /* background: blue; */
+    margin-bottom: 30px;
+}
+
 .banner {
     padding: 100px 0;
     color: #f8f8f8;

@@ -2,30 +2,38 @@
 title: Karangetang Volcano, Siau Island
 subtitle: Indonesia
 category: Guide
-layout: guide4-1
+layout: guide2-1
 banner: http://wallpaperhdfree.com/wp-content/uploads/2012/12/volcano-HD.jpg
 tips:
- - osmtm_license_access
- - canaan-gettingstarted
- - gettingstarted
- - ID_alignment
- - Buildings
-  - canaan-buildings
-  - Buildings
- - Roads
-  - highway-types
-  - classifying roads in africa
-  - roads-intersect
-  - tertiary roads
-  - tracks
-  - residential roads	
-  - unclassified roads
-  - paths
- - Water
-  - rivers
-  - ponds
-  - smallponds
-  - ditch
+  - group: License
+    tips: 
+      - osmtm_license_access
+  - group: Getting Started
+    tips:
+      - canaan-gettingstarted
+      - gettingstarted
+  - group: Alignment
+    tips:
+      - ID_alignment
+  - group: Buildings
+    tips:
+      - canaan-buildings
+      - Buildings
+  - group: Roads
+    tips:
+      - highway-types
+      - classifying roads in africa
+      - roads-intersect
+      - tertiary roads
+      - tracks
+      - residential roads	
+      - unclassified roads
+      - paths
+      - Water
+      - rivers
+      - ponds
+      - smallponds
+      - ditch
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
