@@ -8,7 +8,7 @@ images:
   - https://cloud.githubusercontent.com/assets/6749884/6805117/ae9f4236-d217-11e4-8ab7-703c367631fd.jpg
 tags: [Bangladesh, Building, Agriculture]
 ---
-
+Area feature
 #### Building = yes
 
 Buildings in this region are typically one story structures constructed from concrete or bamboo and have metal or thatch roofs. Common building types in this region include, but are not limited to: homes, health clinics, schools, mosques, temples, shops, rice mills, livestock shelters.
