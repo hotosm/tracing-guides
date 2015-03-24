@@ -1,5 +1,5 @@
 ---
-title: ID_alignment
+title: Alignment
 tipid: ID_alignment
 category: tip
 images: 
@@ -8,7 +8,7 @@ editor: ID
 tags: [imagery,alignment]
 ---
 
-##ID alignment
+####ID alignment
 
 While editing you may encounter a situation where existing features exist that were drawn based on older imagery. 
 Using the alignment arrows in ID editor you can align the new imagery to match the existing features. Now when you add
