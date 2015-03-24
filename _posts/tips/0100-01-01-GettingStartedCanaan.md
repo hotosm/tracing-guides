@@ -7,8 +7,8 @@ images:
 tags: [Canaan]
 ---
 
-#### Getting Started
+####Getting Started
 
 First, make sure you're using the right background imagery. iD Editor will default to using Bing aerial, but for this area we have high-res drone imagery.
 
-You can change the imagery in the iD Editor
+You can change the imagery in the iD Editor.
