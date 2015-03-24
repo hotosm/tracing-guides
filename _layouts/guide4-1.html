@@ -138,12 +138,9 @@
 						</div>
 					</div>
 		{% elsif tip | size > 1 %}     
-              
-		
 			<hr class="section-heading-spacer">
-    			<div class="clearfix"></div>
+			<div class="clearfix"></div>
 			<h2 class="section-heading">{{ tip }}</h2> 
-		 
 			{% for subtip in tip %}
 				{% for post in site.categories['tip'] %}
 					{% if subtip == post.tipid %}
@@ -153,70 +150,85 @@
 									{% else %}     	  
 								{% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
 							{% endif %}
-				   			<div class="content-section-{{ section }}">
-        							<div class="container">      
-            								<div class="row">
-                								<a name="{{post.tipid}}"></a>
-                									<div class="{{divclass}}">
-                										<hr class="section-heading-spacer">
-               											<div class="clearfix"></div>
-												<h3 class="section-heading">{{ post.title}}</h3>
-                 											{{ post.content }}
-                									</div>
-                					{% if post.images.size == 2 %}
-                 						<div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-2{% else %}col-lg-pull-6{% endif %}">
-                   							<a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
-                 						</div>
-                  						<div class="clearfix"></div>
-                  							<div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-7{% else %}col-lg-pull-6{% endif %} buffer-top">
-                   								<a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
-                  							</div>
-                						{% else %}
-                  						{% if thecycle == 'subodd' %}
-                    							{% if post.images[0].image.size == 'large' %}
-                      								<div class="col-lg-12 col-sm-6 col-lg-offset-1">
-                        								<br><br>
-                        								<a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
-                        								<br><br>
-                      								</div>
-                    							{% else %}
-                      								<div class="col-lg-5 col-sm-6 col-lg-offset-2">
-                        								<a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
-                      								</div>
-                      								<div class="clearfix"></div>
-                      								<div class="col-lg-5 col-sm-6">
-                        								<a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
-                      								</div>
-                      								<div class="col-lg-5 col-sm-6 col-lg-offset-2 buffer-top">
-                        								<a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
-                      								</div>
-                    							{% endif %}
-                  						{% else %}
-                    							{% if post.images[0].image.size == 'large' %}
-                      								<div class="col-lg-12 col-sm-6 col-lg-offset-1">
-                        							<br><br>
-                        								<a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
-                        								<br><br>
-                      								</div>
-                    							{% else %}
-                      								<div class="col-lg-5 col-sm-6 col-lg-pull-6">
-                        								<a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
-                      								</div>
-                      								<div class="clearfix"></div>
-                      								<div class="col-lg-5 col-sm-6 buffer-top">
-                        								<a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
-                      								</div>
-                      								<div class="col-lg-5 col-sm-6 col-lg-offset-2">
-                        							<a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
-                      								</div>
-                    							{% endif %}
-                    						{% endif %}
-                    					</div>
-                    				</div>	
+							<div class="content-section-{{ section }}">
+								<div class="container">
+									<div class="row">
+										<a name="{{post.tipid}}"></a>
+										<div class="{{divclass}}">
+											<hr class="section-heading-spacer">
+											<div class="clearfix"></div>
+											<h3 class="section-heading">{{ post.title}}</h3>
+												{{ post.content }}
+													
+										</div>
+										{% if post.images.size == 2 %}
+											<div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-2{% else %}col-lg-pull-6{% endif %}">
+												<a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
+													
+											</div>
+											<div class="clearfix"></div>
+											<div class="col-lg-5 col-sm-6 {% if thecycle == 'odd' %}col-lg-offset-7{% else %}col-lg-pull-6{% endif %} buffer-top">
+												<a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
+													
+												</div>
+										{% else %}
+											{% if thecycle == 'subodd' %}
+												{% if post.images[0].image.size == 'large' %}
+													<div class="col-lg-12 col-sm-6 col-lg-offset-1">
+														<br><br>
+														<a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
+														<br><br>
+															
+													</div>
+												{% else %}
+													<div class="col-lg-5 col-sm-6 col-lg-offset-2">
+														<a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
+															
+													</div>
+													<div class="clearfix"></div>
+													<div class="col-lg-5 col-sm-6">
+													<a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
+														
+													</div>
+													<div class="col-lg-5 col-sm-6 col-lg-offset-2 buffer-top">
+														<a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
+															
+													</div>
+												{% endif %}
+											{% else %}
+												{% if post.images[0].image.size == 'large' %}
+													<div class="col-lg-12 col-sm-6 col-lg-offset-1">
+														<br><br>
+														<a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
+														<br><br>
+															
+													</div>
+												{% else %}
+													<div class="col-lg-5 col-sm-6 col-lg-pull-6">
+														<a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
+															
+													</div>
+													<div class="clearfix"></div>
+													<div class="col-lg-5 col-sm-6 buffer-top">
+														<a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
+															
+													</div>
+													<div class="col-lg-5 col-sm-6 col-lg-offset-2">
+														<a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
+															
+													</div>
+												{% endif %}
+											{% endif %}
+										{% endif %}
+									</div>
+								</div>
+							</div>	
 					{% endif %}
 				{% endfor %}
 			{% endfor %}
 		{% endif %}	
+		</div>
+	</div>
   	{% endfor %}
 {% endfor %}
 {% include footer2.html %}
