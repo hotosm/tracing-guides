@@ -1,6 +1,6 @@
 ---
 tipid: tracing roads nodes
-title: Tracing Nodes
+title: Tracing Roads
 category: tip
 images:
   - image:
