@@ -21,8 +21,8 @@ Now check if buildings are missing. If there are a large number missing, the gri
 Are the buildings correctly traced. Sometimes mappers do not trace buildings accurately & if significant this needs correcting. You may find that a group of buildings looks like they match the shape of roofs but are displaced from where the building is in the imagery, this often happens when OSM has been traced based on imagery that has been misaligned. For the purposes of this task - unless the alignment is aggregious - leave the buildings if you suspect displacement is due to an imagery issue.
 
 ###Highways
-* *Highway tags are correct? Some mappers tag every highway as a track because they are not paved, but this is not a meaningful criteria in these developing countries considering 99% of roads are unpaved. Check the wiki definitions, perhaps the Highway_Tag_Africa is relevant & you should research there before going any further.
+* *Highway tags are correct? Some mappers tag every highway as a track because they are not paved, but this is not a meaningful criteria in some developing countries considering the amount of unpaved roads. Check the wiki definitions, perhaps the [Highway_Tag_Africa](http://wiki.openstreetmap.org/wiki/Highway_Tag_Africa "OSM Wiki") is relevant & you should research there before going any further.
 Road geometry. 
 * *Road Geometry. Some mappers do not put enough details and others too much (eg a node every 10 or 20 m even if the road is straight).  Deleting extra nodes if they actually make a straight road weave.
-* *Start/end of roads. Some mappers produce long winding ways which meander through several junctions. Click on the 'way' and break it into more obvious parts, probably at junctions or changes in the tagging. Some other streets or roads are broken up without any reason (same tags for all the sections), and need to be combined.
+
 
