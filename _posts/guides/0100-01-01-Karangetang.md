@@ -19,7 +19,7 @@ tips:
       - classifying roads in africa
       - roads-intersect	
       - unclassified roads
-      - residential roads 2
+      - resroads
       - paths
 ---
 
