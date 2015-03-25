@@ -21,6 +21,8 @@ tips:
       - unclassified roads
       - residential roads 2
       - paths
+  - group: Validation
+      - validating-volcano  
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
