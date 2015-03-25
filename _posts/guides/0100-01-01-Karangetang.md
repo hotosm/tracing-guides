@@ -22,6 +22,7 @@ tips:
       - residential roads 2
       - paths
   - group: Validation
+    tips:
       - validating-volcano  
 ---
 
