@@ -5,16 +5,16 @@ category: Guide
 layout: guide2-1
 banner: http://wallpaperhdfree.com/wp-content/uploads/2012/12/volcano-HD.jpg
 tips:
-  - group: Getting Started
+  - group: GETTING STARTED
     tips:
       - osmtm_license_access
       - chimagery
       - brightness
       - ID_alignment
-  - group: Buildings
+  - group: BUILDINGS
     tips:
       - Buildings
-  - group: Roads
+  - group: ROADS
     tips:
       - classifying roads in africa
       - roads-intersect	
