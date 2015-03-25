@@ -1,5 +1,5 @@
 ---
-tipid: residential roads 2
+tipid: resroads
 title: Residential Roads
 category: tip
 images:
