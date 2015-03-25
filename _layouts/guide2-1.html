@@ -47,19 +47,27 @@
 </div>
 
 {% for group in page.tips %}
+	{% capture thecycle %}{% cycle 'evengroup', 'oddgroup' %}{% endcapture %}
+	{% if thecycle == 'oddgroup' %}
+        {% capture section %}a{% endcapture %}
+  {% else %}
+        {% capture section %}b{% endcapture %}
+	{% endif %}
+	<div class="content-section-{{ section }}-head" >
     <a name="{{group.group}}"></a>     
-  <div class="container">
-    <h1 class="group-heading">{{ group.group }}</h1> 
-  </div>
+  	<div class="container">
+    	<h1 class="group-heading">{{ group.group }}</h1> 
+  	</div>
+	</div>
   {% for tip in group.tips %}
    {% for post in site.categories['tip'] %}
     {% if tip == post.tipid %}
       {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
       {% if thecycle == 'odd' %}
-        {% capture section %}a{% endcapture %}
+       
         {% capture divclass %}col-lg-5 col-sm-6{% endcapture %}
       {% else %}
-        {% capture section %}b{% endcapture %}
+        
         {% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
       {% endif %}
       <div class="content-section-{{ section }}">
