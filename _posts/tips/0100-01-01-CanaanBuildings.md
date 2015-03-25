@@ -4,7 +4,6 @@ title: Canaan Buildings
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/9657971/6358094/324d4c5a-bc37-11e4-808a-47a0fdb59700.png
-  - https://cloud.githubusercontent.com/assets/9657971/6359733/31396b30-bc43-11e4-8780-c661dfc96d7c.png
 tags: [Haiti, Canaan, Buildings]
 ---
 
