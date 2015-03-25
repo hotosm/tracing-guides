@@ -3,7 +3,10 @@ title: Karangetang Volcano, Siau Island
 subtitle: Indonesia
 category: Guide
 layout: guide2-1
-banner: http://wallpaperhdfree.com/wp-content/uploads/2012/12/volcano-HD.jpg
+banner: 
+  - https://cloud.githubusercontent.com/assets/7816685/6836971/a1085b60-d31d-11e4-86b9-e5dc28dc087c.jpg
+footer:
+  - http://www.usaid.gov/sites/all/themes/usaid/logo.png
 tips:
   - group: Getting Started
     tips:
