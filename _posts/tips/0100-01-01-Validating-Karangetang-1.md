@@ -3,6 +3,7 @@ tipid: validating-volcano-1
 title: Initial Scan
 category: tip
 images:
+ - https://cloud.githubusercontent.com/assets/7431774/6838233/436de6dc-d32c-11e4-8498-98ad7e6887fc.gif
 tags: [Karangetang, Validation, Tasking Manager, Overview]
 ---
 
