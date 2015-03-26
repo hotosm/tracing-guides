@@ -26,7 +26,9 @@ tips:
       - paths
   - group: Validation
     tips:
-      - validating-volcano  
+      - validating-volcano-1
+      - validating-volcano-2
+      - validating-volcano-3
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
