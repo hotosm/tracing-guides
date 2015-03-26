@@ -26,7 +26,7 @@ tips:
       - paths
   - group: Validation
     tips:
-      - validating-volcano-1
+      - validating-volcano
       - validating-volcano-2
       - validating-volcano-3
 ---
