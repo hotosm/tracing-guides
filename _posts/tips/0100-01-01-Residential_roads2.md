@@ -7,8 +7,8 @@ images:
 tags: [residential, Vehicles, remote]
 ---
 
-####highway = residential:
+<h4>highway = residential:</h4>
 
-- This tag is used for roads in or around residential areas except the major roads. Generally we would want you to classify a road this way if you suspect that it is used mostly by people that live on the road. Roads lined by residential buildings are good signs. If your unsure than use 'unclassified' value. 
+<p>This tag is used for roads in or around residential areas except the major roads. Generally we would want you to classify a road this way if you suspect that it is used mostly by people that live on the road. Roads lined by residential buildings are good signs. If your unsure than use 'unclassified' value. </p>
 
 
