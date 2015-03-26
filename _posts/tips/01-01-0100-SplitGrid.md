@@ -1,5 +1,5 @@
 ---
-tipid: spliting-grids
+tipid: splitting-grids
 title: Splitting A Square
 category: tip
 images: 
