@@ -14,6 +14,7 @@ tips:
       - chimagery
       - brightness
       - ID_alignment
+      - splitting-grids
   - group: Buildings
     tips:
       - Buildings
