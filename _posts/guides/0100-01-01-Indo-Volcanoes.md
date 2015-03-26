@@ -1,6 +1,6 @@
 ---
-title: Karangetang Volcano, Siau Island
-subtitle: Indonesia
+title: Indonesian Volcanoes 
+subtitle: Karangetang & Kelud
 category: Guide
 layout: guide2-1
 banner: 
