@@ -27,12 +27,14 @@ title: 'Main'
   <table class="table table-striped table-bordered">
     <thead>
       <th>Name</th>
+      <th>Tip ID</th>
       <th>Tags</th>
     </thead>
     <tbody>
       {% for post in site.categories['tip'] %}
       <tr>
         <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
+        <td>{{ post.tipid }}</td>
         <td>{{ post.tags | array_to_sentence_string }}</td>
       </tr>
       {% endfor %}
