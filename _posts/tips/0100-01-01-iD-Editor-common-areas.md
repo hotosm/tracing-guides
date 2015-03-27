@@ -1,6 +1,6 @@
 ---
 tipid: common areas
-title: OSM iD Editor common areas
+title: Common Areas
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/2665840/6873624/0b85edfc-d488-11e4-9a07-aadb38b0a041.gif
