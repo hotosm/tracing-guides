@@ -1,5 +1,5 @@
 ---
-tipid: Building
+tipid: BuildingNP
 title: Destroyed or Collapsed
 category: tip
 images:
