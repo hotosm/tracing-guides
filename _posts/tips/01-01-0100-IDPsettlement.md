@@ -14,4 +14,4 @@ Area feature
 
 Impromptu IDP settlements in urban area are located in non build-up portions of a city.  They can usually be identified by bright orange or blue tents arranged in a non linear fashion within open areas.  Open areas usually consist of parks, school yards, athletic fields, or other small open areas in a city.  
 
-An Area IDP settlement will have 5 or more tents.  Please trace the extent of the entire open area, this will allow for calculations of IDP space and an assist with critical assistance.  For collecting individual tents see this guidance.
+An Area IDP settlement will have 5 or more tents.  Please trace the extent of the entire open area, this will allow for calculations of IDP space and can assist with the overall response.  For collecting individual tents please see this guidance.
