@@ -3,8 +3,8 @@ tipid: IDPsettlement
 title: IDP Settlement
 category: tip
 images:
-  - https://cloud.githubusercontent.com/assets/4990708/7361875/d0deced4-ed2e-11e4-99ec-3ec5c58139d5.JPG
-  - https://cloud.githubusercontent.com/assets/4990708/7361874/d0dd18fa-ed2e-11e4-9177-db54f862ddd8.JPG
+  - https://cloud.githubusercontent.com/assets/4990708/7395641/341cfefe-ee69-11e4-81d8-d674ffd50fb5.JPG
+  - https://cloud.githubusercontent.com/assets/4990708/7395463/042b962a-ee68-11e4-8b06-2d4fe448f7c8.JPG
   - https://cloud.githubusercontent.com/assets/4990708/7361892/0b1c4c16-ed2f-11e4-8a73-7ef2c5ac6ae3.jpg
 tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ---
