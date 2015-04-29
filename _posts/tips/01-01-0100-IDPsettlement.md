@@ -10,7 +10,7 @@ tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ---
 Area feature
 
-###IDP:camp_site=spontaneous_camp
+###idp:camp_site=spontaneous_camp
 damage:event=nepal_earthquake_2015
 
 source=DigitalGlobe/Mapbox WV3 April 2015
