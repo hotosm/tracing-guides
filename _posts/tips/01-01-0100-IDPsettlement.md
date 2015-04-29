@@ -13,7 +13,7 @@ Area feature
 ###idp:camp_site=spontaneous_camp
 damage:event=nepal_earthquake_2015
 
-source=DigitalGlobe/Mapbox WV3 April 2015
+source=add appropriate source per task
 
 Impromptu IDP settlements in urban area are located in non build-up portions of a city.  They can usually be identified by bright orange or blue tents arranged in a non linear fashion within open areas.  Open areas usually consist of parks, school yards, athletic fields, or other small open areas in a city.  
 
