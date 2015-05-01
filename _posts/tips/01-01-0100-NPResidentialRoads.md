@@ -1,6 +1,6 @@
 ---
 tipid: ResRdsNP
-title: Primary Roads
+title: Residential Roads
 category: tip
 images:
   - http://i.imgur.com/K5RtOnW.png
