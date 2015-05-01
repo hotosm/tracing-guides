@@ -11,5 +11,6 @@ Line feature
 
 ###highway=primary
 
-Road corridors that carries a huge volume of traffic between arterial roads and has a high density of public transport services. 
+Road corridors that carries a huge volume of traffic between arterial roads and has a high density of public transport services.
+
 These roads often connect two relatively distant localities in urban areas. The lanes=* key should be used to specify the total number of traffic lanes.
