@@ -3,8 +3,8 @@ tipid: ResRdsNP
 title: Residential Roads
 category: tip
 images:
-  - http://i.imgur.com/K5RtOnW.png
-  - http://i.imgur.com/Ogk4Tr7.png
+  - http://i.imgur.com/cIk9eAh.png?1
+  - http://i.imgur.com/zFRQWH5.png?1
 tags: [Nepal, Earthquake, Roads]
 ---
 Line feature
