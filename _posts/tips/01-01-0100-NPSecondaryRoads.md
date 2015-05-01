@@ -11,4 +11,6 @@ Line feature
 
 ###highway=secondary
 
-Collector roads that carry lower volume of traffic and has either no public transport service or a lower density of public transport service. These roads often connect two neighboring/nearby localities in urban areas. The lanes=* key should be used to specify the total number of traffic lanes.
+Collector roads that carry lower volume of traffic and has either no public transport service or a lower density of public transport service. 
+
+These roads often connect two neighboring/nearby localities in urban areas. The lanes=* key should be used to specify the total number of traffic lanes.
