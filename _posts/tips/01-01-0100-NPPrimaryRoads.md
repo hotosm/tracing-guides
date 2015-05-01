@@ -4,7 +4,7 @@ title: Primary Roads
 category: tip
 images:
   - http://i.imgur.com/KYblo2y.png?1
-  - http://i.imgur.com/U41aEDT.png
+  - http://i.imgur.com/U41aEDT.png?2
 tags: [Nepal, Earthquake, Roads]
 ---
 Line feature
