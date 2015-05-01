@@ -1,5 +1,5 @@
 ---
-tipid: PrimaryRdsNP
+tipid: ResRdsNP
 title: Primary Roads
 category: tip
 images:
