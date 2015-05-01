@@ -3,7 +3,7 @@ tipid: PrimaryRdsNP
 title: Primary Roads
 category: tip
 images:
-  - http://i.imgur.com/KYblo2y.png
+  - http://i.imgur.com/KYblo2y.png?1
   - http://i.imgur.com/U41aEDT.png
 tags: [Nepal, Earthquake, Roads]
 ---
