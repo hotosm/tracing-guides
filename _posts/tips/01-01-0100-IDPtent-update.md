@@ -1,5 +1,5 @@
 ---
-tipid: IDPtent
+tipid: IDPtent-update
 title: IDP Tent
 category: tip
 images:
@@ -8,13 +8,8 @@ images:
   - https://cloud.githubusercontent.com/assets/4990708/7362471/461295fc-ed37-11e4-94cf-58f79f45f774.jpg
 tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ---
-Area feature
-
-###idp:camp_site=spontaneous_camp
-damage:event=nepal_earthquake_2015
-
-source=add appropriate source per task
 
 IDP tents in urban areas are located in non built-up portions of a city.  They can usually be identified by one large bright orange, blue, or white tent arranged in a small open area. 
 
-Single tents are located in small areas not large enough to hold more than one or two total tents.  There often isn't much surrounding open area, in these cases just trace the outline of the tent.  Total tent area can be used to estimate the number of of IDPs, which will assist with the overall response.      
+Single tents are located in small areas not large enough to hold more than one or two total tents.  There often isn't much surrounding open area, in these cases create an area feature and just trace the outline of the tent.  Total tent area can be used to estimate the number of of IDPs, which will assist with the overall response.      
+
