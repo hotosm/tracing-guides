@@ -18,6 +18,11 @@ tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ####ex:
 ####idp:status=new 
 
+###check_date=add date of latest imagery
+
+####ex:
+####check_date=2015-05-03
+
 ###source=add appropriate sources per task
 
 ####ex:
