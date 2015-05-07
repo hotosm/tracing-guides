@@ -1,5 +1,5 @@
 ---
-tipid: c
+tipid: Landslides
 title: Landslides and Road Blocks
 category: tip
 images:
