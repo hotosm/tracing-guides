@@ -25,4 +25,4 @@ tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ####idp:source_20150427=CNES, Airbus DS
 ####idp:source_20150503=GeoEye1 DigitalGlobe
 
-You can see in the examples above you have two idp:source tags because you used two imagery source to evaluate the change in the IDP site. You also have two idp:status tags to record the status at two times.
+####You can see in the examples above you have two idp:source tags because you used two imagery source to evaluate the change in the IDP site. You also have two idp:status tags to record the status at two times.
