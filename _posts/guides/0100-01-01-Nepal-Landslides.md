@@ -4,7 +4,7 @@ subtitle: Landslides and Road Blocks
 category: Guide
 layout: guide3
 banner: 
-  - https://cloud.githubusercontent.com/assets/2665840/7446719/c92a0cbe-f1af-11e4-8db8-0a3140d92edf.jpg
+  - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_After.JPG
 tips:
   - Landslides
 ---

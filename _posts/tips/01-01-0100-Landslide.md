@@ -4,7 +4,6 @@ title: Landslides and Road Blocks
 category: tip
 images:
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Before.JPG
-  - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_After.JPG
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Tag.JPG
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Tag.JPG
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Debris_Tag.JPG
