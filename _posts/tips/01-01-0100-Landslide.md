@@ -32,7 +32,7 @@ source:date=add date of imagery per task
 source=add appropriate source per task  
 damage:event=nepal_earthquake_2015  
 
-**Road blocks (node)**
+**Road blocks (node)**  
 barrier=debris  
 source:date=add date of imagery per task  
 source=add appropriate source per task  
