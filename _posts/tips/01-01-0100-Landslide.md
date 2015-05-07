@@ -1,20 +1,42 @@
 ---
-tipid: IDPsettlement
-title: IDP Settlement
+tipid: Landslides
+title: Landslides and Road Blocks
 category: tip
 images:
-  - https://cloud.githubusercontent.com/assets/4990708/7395463/042b962a-ee68-11e4-8b06-2d4fe448f7c8.JPG
-  - https://cloud.githubusercontent.com/assets/4990708/7395641/341cfefe-ee69-11e4-81d8-d674ffd50fb5.JPG
-  - https://cloud.githubusercontent.com/assets/4990708/7361892/0b1c4c16-ed2f-11e4-8a73-7ef2c5ac6ae3.jpg
-tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
+  - https://github.com/hotosm/tracing-guides/blob/gh-pages/images/Landslide_Before.JPG
+  - https://github.com/hotosm/tracing-guides/blob/gh-pages/images/Landslide_After.JPG
+  - https://github.com/hotosm/tracing-guides/blob/gh-pages/images/Landslide_Tag.JPG
+  - https://github.com/hotosm/tracing-guides/blob/gh-pages/images/RoadBlock_Tag.JPG
+  - https://github.com/hotosm/tracing-guides/blob/gh-pages/images/Debris_Tag.JPG
+tags: [Nepal, Earthquake, Landslide]
 ---
 Area feature
 
-###idp:camp_site=spontaneous_camp
+The goal is to map earthquake induced landslides and roads blocked by debris or damaged. Please compare with any previous background imagery available to make sure the landslide occurred recently and possibly induced by the 2015 earthquake.
+
+Objects to map:
+
+- landslide cones (area covering the entire landslide, use hazard_type=landslide)
+- landslide locations (node, point within the landslide cone area, use hazard_type=landslide)
+- road blocks caused by landslide debris (node, use barrier=debris)
+- roads damaged or blocked by landslides (way, use smoothness=impassable)
+
+#Landslides (node or area)
+hazard_type=landslide
+source:date=add date of imagery per task
+source=add appropriate source per task
 damage:event=nepal_earthquake_2015
 
+# Blocked/damaged roads (way)
+highway=*
+smoothness=impassable
+source:date=add date of imagery per task
 source=add appropriate source per task
+damage:event=nepal_earthquake_2015
 
-Impromptu IDP settlements in urban areas are located in non build-up portions of a city.  They can usually be identified by bright orange or blue tents arranged in a non linear fashion within open areas.  Open areas usually consist of parks, school yards, athletic fields, or other small open areas in a city.  
+# Road blocks (node)
+barrier=debris
+source:date=add date of imagery per task
+source=add appropriate source per task
+damage:event=nepal_earthquake_2015
 
-An Area IDP settlement will usually have 5 or more tents.  Please trace the extent of the entire open area, this will allow for calculations of IDP space and can assist with the overall response.  
