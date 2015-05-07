@@ -6,7 +6,7 @@ layout: guide3
 banner: 
   - https://cloud.githubusercontent.com/assets/2665840/7446719/c92a0cbe-f1af-11e4-8db8-0a3140d92edf.jpg
 tips:
-  - Landslides
+  - Landslide
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
