@@ -5,7 +5,7 @@ category: tip
 images:
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Before.JPG
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Tag.JPG
-  - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Tag.JPG
+  - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/RoadBlock_Tag.JPG
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Debris_Tag.JPG
 tags: [Nepal, Earthquake, Landslide]
 ---
