@@ -21,20 +21,21 @@ Objects to map:
 - road blocks caused by landslide debris (node, use barrier=debris)  
 - roads damaged or blocked by landslides (way, use smoothness=impassable)  
 
-* Landslides (node or area) *  
+
+*Landslides (node or area)*  
 hazard_type=landslide  
 source:date=add date of imagery per task  
 source=add appropriate source per task  
 damage:event=nepal_earthquake_2015  
 
-* Blocked/damaged roads (way) *  
+*Blocked/damaged roads (way)*  
 highway=*  
 smoothness=impassable  
 source:date=add date of imagery per task  
 source=add appropriate source per task  
 damage:event=nepal_earthquake_2015  
 
-* Road blocks (node) *
+*Road blocks (node)*
 barrier=debris  
 source:date=add date of imagery per task  
 source=add appropriate source per task  
