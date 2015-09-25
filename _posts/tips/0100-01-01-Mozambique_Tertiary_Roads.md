@@ -1,6 +1,6 @@
 ---
 tipid: TRoads_Mozambique
-title: Tertiary_Roads_Mozambique
+title: Tertiary Roads
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/11095450/10112135/d94954ce-63a6-11e5-80b5-49448a58954e.png
