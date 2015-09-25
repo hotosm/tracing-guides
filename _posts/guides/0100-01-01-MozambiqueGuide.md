@@ -12,9 +12,10 @@ tips:
   - group: Buildings
     tips:
       - Mozambique_mbuildings
+      - Mozambique_cwbuildings
   - group: Roads
     tips:
-      - classifying roads in africa
+      - TRoads_Mozambique
 
 ---
 
