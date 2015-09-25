@@ -11,6 +11,7 @@ footer:
 tips:
  - Mozambique_mbuildings
  - Mozambique_cwbuildings
+ - Mozambique_thatched_roof_buildings
  - TRoads_Mozambique
  - Mozambique_secondary_roads
  - mozambique_rroad
