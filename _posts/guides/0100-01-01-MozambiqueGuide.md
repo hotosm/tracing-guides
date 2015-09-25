@@ -12,7 +12,7 @@ tips:
  - Mozambique_mbuildings
  - Mozambique_cwbuildings
  - TRoads_Mozambique
-
+ - mozambique_rroad
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
