@@ -7,6 +7,7 @@ images:
   - https://cloud.githubusercontent.com/assets/11095450/10103517/5b257548-6372-11e5-97cc-f8d3b30ac487.png
 tags: [Mozambique, tertiary, roads, iD]
 ---
+
 ###Linear feature
 
 The roads are all unpaved, but we want to distinguish between them. We will use two classifications: residential road and tertiary road. 
