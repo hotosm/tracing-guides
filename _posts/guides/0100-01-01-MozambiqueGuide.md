@@ -2,7 +2,7 @@
 title: Malaria
 subtitle: Mozambique
 category: Guide
-layout: guide
+layout: guide3
 banner:
   - https://cloud.githubusercontent.com/assets/4990708/10102210/306ca4b8-636b-11e5-8836-617935c51ed2.jpg
 footer: 
