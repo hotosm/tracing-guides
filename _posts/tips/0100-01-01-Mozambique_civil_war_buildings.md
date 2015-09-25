@@ -1,6 +1,6 @@
 ---
 tipid: Mozambique_cwbuildings
-title: Civil War Era Buildings
+title: Civil War Era or Under Construction Buildings
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/11095450/10103269/f0d3176e-6370-11e5-80d6-7690a570497e.png
