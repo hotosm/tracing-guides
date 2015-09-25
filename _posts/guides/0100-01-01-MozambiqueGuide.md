@@ -1,1 +1,46 @@
+---
+title: Malaria
+subtitle: Khulna District Bangladesh
+category: Guide
+layout: guide2
+banner: ![stomp_logo_horizontal]https://cloud.githubusercontent.com/assets/4990708/10102210/306ca4b8-636b-11e5-8836-617935c51ed2.jpg
+footer: 
+  - https://cloud.githubusercontent.com/assets/6749884/6753294/50027d44-ceeb-11e4-9a27-ba31a954c3a4.png
+  - https://cloud.githubusercontent.com/assets/6749884/6753779/ed04fb46-ceee-11e4-9e10-caebebf0071c.png
+tips:
+  - areariver
+  - LinearRiver
+  - ditch
+  - ponds
+  - khulnabuilding
+  - brickkiln
+  - nhighway
+  - rhighway
+  - zilla
+  - unclassroad
+---
+
+<div id="test" class="col-lg-5 col-sm-6">
+<hr class="section-heading-spacer">
+<div class="clearfix"></div>
+
+<h2 class="section-heading">About Mapping for Resilience</h2>
+
+<h4> Khulna, Bangladesh </h4><p>This mapping project directly supports agricultural programs in Bangladesh. Data created from this mapping effort will be used by USAID and its partners who are working with rural farming villages in Bangladesh. It is intended to help communities in the Khulna District improve land management and increase agricultural production.</p>
+<p>The desired outcome from this project is to have an accurate and complete transportation network, along with features that can be used for agriculture such as rivers, ditches, ponds, and buildings. </p><br>
+
+<h4> Tracing Tips </h4>
+<ul>
+  <li> Do not trace the rice paddies. Rice paddies are the dark green areas on either side of the river with small footpaths in between.</li>
+  <li> If you see features on the map that do not exist in the imagery please make updates as needed. </li>
+  <li> Save often when editing Coastlines and Area River features as they are continuous and appear in multiple cells across the project area. </li>
+  <li> Bangladesh has a tropical wet season (monsoon) and a dry season. October through May is the dry season and May through September is monsoon season. 80% of the average annual rainfall occurs during monsoon season. </li>
+  <li> Agricultural land in the Khulna District of Bangladesh varies greatly depending on the season. Therefore, it is helpful to use different satellite imagery sources to get an alternative perspective on land use.</li> 
+  <li>The NextView licensed satellite imagery was collected January 15th, 2014 by DigitalGlobe &copy;. Note: The collection date may be different from the Bing imagery.</li>
+  <li> There may be an offset between the Bing imagery and the Digital Globe imagery in certain parts of the tasked area. In such cases please adjust the features to align with the Bing imagery.</li>
+</ul>
+</div>
+<div class="col-lg-5 col-lg-offset-2 col-sm-6">
+  <br><iframe style="margin-top:60px" src="http://www.openstreetmap.org/export/embed.html?bbox=89.3844223022461%2C22.701771555093703%2C89.67109680175781%2C22.85640378959344&amp;layer=mapnik" width="500" height="415" frameborder="0"></iframe>
+</div>
 
