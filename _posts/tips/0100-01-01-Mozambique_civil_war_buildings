@@ -1,5 +1,5 @@
 ---
-tipid: Mozambique_civil_war_era_buildings
+tipid: Mozambique_cwbuildings
 title: Civil War Era Buildings
 category: tip
 images:
@@ -9,6 +9,6 @@ images:
 tags: [Mozambique, buildings, iD]
 ---
 
-Area Feature
+###Area Feature
 
 The aftermath of the 16 year Mozambican civil war can still be seen in cities such as Morrumbala.  Many building structures are still left from this period and may be in use. While they may appear to be under construction or in ruins from an aerial view, they should still be mapped as buildings. 
