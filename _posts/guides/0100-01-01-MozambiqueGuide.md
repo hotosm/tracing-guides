@@ -3,7 +3,8 @@ title: Malaria
 subtitle: Mozambique
 category: Guide
 layout: guide2
-banner: ![stomp_logo_horizontal]https://cloud.githubusercontent.com/assets/4990708/10102210/306ca4b8-636b-11e5-8836-617935c51ed2.jpg
+banner:
+  - https://cloud.githubusercontent.com/assets/4990708/10102210/306ca4b8-636b-11e5-8836-617935c51ed2.jpg
 footer: 
   - https://cloud.githubusercontent.com/assets/6749884/6753294/50027d44-ceeb-11e4-9a27-ba31a954c3a4.png
   - https://cloud.githubusercontent.com/assets/6749884/6753779/ed04fb46-ceee-11e4-9e10-caebebf0071c.png
@@ -13,7 +14,17 @@ tips:
   - TertiaryRoad
   - Track/Trail
   - Unspecified
-  - House
+
+  - group: Buildings
+    tips:
+      - Mozambique_metal_roof_buildings
+  - group: Roads
+    tips:
+      - classifying roads in africa
+      - roads-intersect	
+      - unclassified roads
+      - residential roads 2
+      - paths
 
 ---
 
