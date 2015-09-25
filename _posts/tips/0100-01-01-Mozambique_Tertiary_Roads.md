@@ -8,6 +8,4 @@ images:
   - https://cloud.githubusercontent.com/assets/11095450/10103517/5b257548-6372-11e5-97cc-f8d3b30ac487.png
 tags: [Mozambique, tertiary, roads, iD]
 ---
-The roads are all unpaved, but we want to distinguish between them. We will use three classifications: secondary road, tertiary road and residential road.
-
-*Tertiary*. The most obvious, widest paths that you see should be classified as "tertiary roads". These roads are easily seen in the drone imagery and will seem wide enough for two cars to pass. Tertiary roads connect towns, villages and major streets.
+Tertiary roads are typically most obvious, widest paths that you will see. These roads are easily seen in the drone imagery and will seem wide enough for two cars to pass. Tertiary roads connect towns, villages and major streets.
