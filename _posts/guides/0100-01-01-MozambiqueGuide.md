@@ -9,12 +9,6 @@ footer:
   - https://cloud.githubusercontent.com/assets/6749884/6753294/50027d44-ceeb-11e4-9a27-ba31a954c3a4.png
   - https://cloud.githubusercontent.com/assets/6749884/6753779/ed04fb46-ceee-11e4-9e10-caebebf0071c.png
 tips:
-  - PrimaryRoad
-  - SecondaryRoad
-  - TertiaryRoad
-  - Track/Trail
-  - Unspecified
-
   - group: Buildings
     tips:
       - Mozambique_metal_roof_buildings
