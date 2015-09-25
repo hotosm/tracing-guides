@@ -2,7 +2,7 @@
 title: Malaria
 subtitle: Mozambique
 category: Guide
-layout: guide2
+layout: guide2-1
 banner:
   - https://cloud.githubusercontent.com/assets/4990708/10102210/306ca4b8-636b-11e5-8836-617935c51ed2.jpg
 footer: 
@@ -15,10 +15,6 @@ tips:
   - group: Roads
     tips:
       - classifying roads in africa
-      - roads-intersect	
-      - unclassified roads
-      - residential roads 2
-      - paths
 
 ---
 
