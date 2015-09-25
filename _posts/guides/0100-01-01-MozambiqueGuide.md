@@ -21,7 +21,7 @@ tips:
 <hr class="section-heading-spacer">
 <div class="clearfix"></div>
 
-<h2 class="section-heading">About Mapping for Resilience</h2>
+<h2 class="section-heading">About Malaria Prevention</h2>
 
 <h4> Khulna, Bangladesh </h4><p>This mapping project directly supports agricultural programs in Bangladesh. Data created from this mapping effort will be used by USAID and its partners who are working with rural farming villages in Bangladesh. It is intended to help communities in the Khulna District improve land management and increase agricultural production.</p>
 <p>The desired outcome from this project is to have an accurate and complete transportation network, along with features that can be used for agriculture such as rivers, ditches, ponds, and buildings. </p><br>
@@ -29,12 +29,7 @@ tips:
 <h4> Tracing Tips </h4>
 <ul>
   <li> Do not trace the rice paddies. Rice paddies are the dark green areas on either side of the river with small footpaths in between.</li>
-  <li> If you see features on the map that do not exist in the imagery please make updates as needed. </li>
-  <li> Save often when editing Coastlines and Area River features as they are continuous and appear in multiple cells across the project area. </li>
-  <li> Bangladesh has a tropical wet season (monsoon) and a dry season. October through May is the dry season and May through September is monsoon season. 80% of the average annual rainfall occurs during monsoon season. </li>
-  <li> Agricultural land in the Khulna District of Bangladesh varies greatly depending on the season. Therefore, it is helpful to use different satellite imagery sources to get an alternative perspective on land use.</li> 
-  <li>The NextView licensed satellite imagery was collected January 15th, 2014 by DigitalGlobe &copy;. Note: The collection date may be different from the Bing imagery.</li>
-  <li> There may be an offset between the Bing imagery and the Digital Globe imagery in certain parts of the tasked area. In such cases please adjust the features to align with the Bing imagery.</li>
+ 
 </ul>
 </div>
 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
