@@ -1,6 +1,6 @@
 ---
 tipid: Mozambique_mbuildings
-title: Mozambique Metal Roof Buildings
+title: Metal Roof Buildings
 category: tip
 excerpt:
 tags: [Mozambique, Malaria, Building]
