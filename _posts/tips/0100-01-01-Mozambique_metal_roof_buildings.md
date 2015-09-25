@@ -1,12 +1,11 @@
 ---
-tipid: Mozambique_metal_roof_buildings
+tipid: Mozambique_mbuildings
 title: Mozambique Metal Roof Buildings
 category: tip
 images:
-  -
+  - https://cloud.githubusercontent.com/assets/11095450/10103253/de58c53e-6370-11e5-9afe-89006ad5ac63.png
 tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ---
-- https://cloud.githubusercontent.com/assets/11095450/10103253/de58c53e-6370-11e5-9afe-89006ad5ac63.png
 
 Area Feature
 
