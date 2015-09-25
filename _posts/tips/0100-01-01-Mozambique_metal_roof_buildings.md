@@ -7,6 +7,6 @@ images:
 tags: [Mozambique, Malaria, Building]
 ---
 
-###Area Feature
+### Area Feature
 
 Many buildings in Mozambique are made with mud and brick and have a metal roof, as featured in this picture. 
