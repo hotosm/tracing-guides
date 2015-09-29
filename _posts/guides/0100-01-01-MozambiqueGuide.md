@@ -32,5 +32,5 @@ tips:
 </ul>
 </div>
 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-  <br><iframe style="margin-top:60px" src="http://www.openstreetmap.org/export/embed.html?bbox=89.3844223022461%2C22.701771555093703%2C89.67109680175781%2C22.85640378959344&amp;layer=mapnik" width="500" height="415" frameborder="0"></iframe>
+  <br><iframe style="margin-top:60px" src="http://www.openstreetmap.org/#map=10/-16.6599/35.5284" width="500" height="415" frameborder="0"></iframe>
 </div>
