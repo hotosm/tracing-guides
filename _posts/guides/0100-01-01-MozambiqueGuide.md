@@ -1,6 +1,6 @@
 ---
-title: Malaria
-subtitle: Mozambique
+title:
+subtitle:
 category: Guide
 layout: guide3
 banner:
