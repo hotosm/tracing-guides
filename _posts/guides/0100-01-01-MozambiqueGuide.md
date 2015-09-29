@@ -23,12 +23,11 @@ tips:
 
 <h2 class="section-heading">About Malaria Prevention</h2>
 
-<h4> Khulna, Bangladesh </h4><p>This mapping project directly supports agricultural programs in Bangladesh. Data created from this mapping effort will be used by USAID and its partners who are working with rural farming villages in Bangladesh. It is intended to help communities in the Khulna District improve land management and increase agricultural production.</p>
-<p>The desired outcome from this project is to have an accurate and complete transportation network, along with features that can be used for agriculture such as rivers, ditches, ponds, and buildings. </p><br>
+<h4> Mozambique </h4><p> Milange and Morrumbala are located in the Southeastern part of Zambezia Province, Mozambique.  Zambezia is the largest district in the province and lines the southern Malawian border through the Chire River. Once remote mapping is complete, Peace Corps Volunteers and their Mozambican counterparts on the ground will use printed Field Papers to groundtruth and add local knowledge to the remotely traced base map. Morrumbala and Milange have high population density and will host IRS (indoor residual spraying) campaigns for malaria prevention in October 2015. The IRS campaigns are sponsored and implemented by the President’s Malaria Initiative (PMI), a collaboration between the United States Agency for International Development (USAID) and the Centers for Disease Control (CDC). Geographic data from OpenStreetMap will help to locate areas that have been reached by the IRS campaign and identify priority areas that have yet to be sprayed. </p><br>
 
 <h4> Tracing Tips </h4>
 <ul>
-  <li> Do not trace the rice paddies. Rice paddies are the dark green areas on either side of the river with small footpaths in between.</li>
+  <li> </li>
  
 </ul>
 </div>
