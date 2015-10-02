@@ -4,7 +4,7 @@ subtitle:
 category: Guide
 layout: guide3
 banner:
-  - https://cloud.githubusercontent.com/assets/4990708/10102210/306ca4b8-636b-11e5-8836-617935c51ed2.jpg
+  - https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png
 footer: 
   - http://www.csuchico.edu/news/_assets/images/peace-corps-logo
   - https://cloud.githubusercontent.com/assets/6749884/6753294/50027d44-ceeb-11e4-9a27-ba31a954c3a4.png
