@@ -7,4 +7,4 @@ images:
 tags: Karangetang, imagery
 ---
 
-First, make sure you're using the right background imagery. For this task, you will have multiple types of imagery to choose from. This can be found on the navigation bar on the right of the screen. For Saraya, the default will be custom imagery. If and only if the screen is black, try switching to Bing imagery. The custom imagery should be used whenever possible. 
+Make sure you're using the right background imagery. For this task, you will have multiple types of imagery to choose from but you should use the default custom imagery whenever possible. If and only if the screen is black, try switching to Bing imagery. This option can be found on the navigation bar on the right of the screen.
