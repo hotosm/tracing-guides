@@ -11,3 +11,4 @@ images:
 ---
 
 Many buildings in the Saraya District of Senegal are made with mud and brick and have a metal roof. Please label these as general buildings. Community-based team members will update the labels. 
+
