@@ -10,4 +10,4 @@ tags: [Location, Type of Editor, Feature Mapped]
 
 Tip text goes here. 
 
-If the tip was created correctly, when looking at the tips list (http://hotosm.github.io/tracing-guides/), only this text will be seen.
+If the tip was created correctly, when looking at the tips list (http://hotosm.github.io/tracing-guides/), only this text will be seen. If using this template, please remember to delete all comments, i.e. the hashtags and text following it.
