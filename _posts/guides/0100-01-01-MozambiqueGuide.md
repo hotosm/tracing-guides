@@ -1,6 +1,6 @@
 ---
 title: Malaria Prevention in Mozambique
-subtitle: Milange and Morrumbala
+subtitle: 
 category: Guide
 layout: guide3
 banner:
