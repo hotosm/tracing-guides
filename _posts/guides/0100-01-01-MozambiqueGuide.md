@@ -1,5 +1,5 @@
 ---
-title: Mozambique
+title: Malaria Prevention in Mozambique
 subtitle: 
 category: Guide
 layout: guide4
