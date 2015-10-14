@@ -1,6 +1,6 @@
 ---
-title: Indonesian Volcanoes 
-subtitle: Mapping Vulnerable Communities
+title: Teluk Ambon
+subtitle: Mapping Climate Change Effects
 category: Guide
 layout: guide2-1
 banner: 
