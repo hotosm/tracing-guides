@@ -10,7 +10,7 @@ tips:
   - group: Getting Started
     tips:
       - osmtm_license_access
-      - gettingstarted brightness settings 2
+      - brightness
       - ID_alignment
   - group: Buildings
     tips:
