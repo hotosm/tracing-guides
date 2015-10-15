@@ -2,19 +2,32 @@
 title: Malaria Prevention in Mozambique
 subtitle: 
 category: Guide
-layout: guide4
+layout: guide2-1
 banner:
   - https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png
 footer: 
-  - http://www.csuchico.edu/news/_assets/images/peace-corps-logo
-  - https://cloud.githubusercontent.com/assets/6749884/6753294/50027d44-ceeb-11e4-9a27-ba31a954c3a4.png
 tips:
- - Mozambique_mbuildings
- - Mozambique_cwbuildings
- - Mozambique_thatched_roof_buildings
- - TRoads_Mozambique
- - Mozambique_secondary_roads
- - mozambique_rroad
+  - group: Getting Started
+    tips:
+      - osmtm_license_access
+      - gettingstarted brightness settings 2
+      - ID_alignment
+  - group: Buildings
+    tips:
+      - Mozambique_mbuildings
+      - Mozambique_thatched_roof_buildings
+      - Mozambique_cwbuildings
+  - group: Roads
+    tips:
+      - Mozambique_secondary_roads
+      - TRoads_Mozambique	
+      - mozambique_rroad
+      - roads-intersect
+  - group: Validation
+    tips:
+      - validating-volcano
+      - validating-volcano-2
+      - validating-volcano-3
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
