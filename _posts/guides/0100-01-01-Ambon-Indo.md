@@ -20,11 +20,16 @@ tips:
       - Buildings
   - group: Roads
     tips:
-      - classifying roads in africa
+      - canaanroads
       - roads-intersect	
-      - unclassified roads
+      - roads-flow
+      - indotertroads
       - residential roads 2
-      - paths
+      - unclassified roads
+  - group: Water Features
+    tips:
+      - riversline
+      - riversedit
   - group: Validation
     tips:
       - validating-volcano
@@ -36,8 +41,8 @@ tips:
 <hr class="section-heading-spacer">
 <div class="clearfix"></div>
 
-<h1 class="section-heading">Indonesian Volcanoes</h1>
+<h1 class="section-heading">Ambon City, Indonesia</h1>
 
-Karangetang is one of the most active volcanoes in Indonesia, having erupted 41 times since 1675. The volcano is located on Siau Island which is inhabited by approximately 22,000 people. Tracing buildings, settlements and the road network will help disaster management agencies model risks and aid in mitigation efforts. In collaboration with the US Agency for International Developments Office of Foreign Disaster Assistance, the Humanitarian Information Unit (HIU) of the U.S. Department of State is providing the OpenStreetMap community access to updated satellite imagery services through its MapGive program. For the area around the volcano you can use the imagery provided by HIU, while on the southern part of the island Bing imagery is sufficient. 
+Ambon City..........................
 
 </div>
