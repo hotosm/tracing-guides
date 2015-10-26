@@ -20,16 +20,12 @@ tips:
       - Buildings
   - group: Roads
     tips:
+      - canaanroads
       - roads-intersect	
       - roads-flow
-      - residential roads
-      - classifying unpaved roads
-      - classifying roads in africa
       - unclassified roads
       - residential roads 2
       - paths
-      - canaanroads
-      - tracing roads nodes
   - group: Validation
     tips:
       - validating-volcano
