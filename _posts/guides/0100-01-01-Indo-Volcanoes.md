@@ -23,9 +23,13 @@ tips:
       - canaanroads
       - roads-intersect	
       - roads-flow
-      - unclassified roads
+      - indotertroads
       - residential roads 2
-      - paths
+      - unclassified roads
+  - group: Water Features
+    tips:
+      - riversline
+      - riversedit
   - group: Validation
     tips:
       - validating-volcano
