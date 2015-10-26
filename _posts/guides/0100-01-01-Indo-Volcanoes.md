@@ -20,11 +20,16 @@ tips:
       - Buildings
   - group: Roads
     tips:
-      - classifying roads in africa
       - roads-intersect	
+      - roads-flow
+      - residential roads
+      - classifying unpaved roads
+      - classifying roads in africa
       - unclassified roads
       - residential roads 2
       - paths
+      - canaanroads
+      - tracing roads nodes
   - group: Validation
     tips:
       - validating-volcano
@@ -38,7 +43,9 @@ tips:
 
 <h1 class="section-heading">Indonesian Volcanoes</h1>
 
-Karangetang is one of the most active volcanoes in Indonesia, having erupted 41 times since 1675. The volcano is located on Siau Island which is inhabited by approximately 22,000 people. Tracing buildings, settlements and the road network will help disaster management agencies model risks and aid in mitigation efforts. In collaboration with the US Agency for International Developments Office of Foreign Disaster Assistance, the Humanitarian Information Unit (HIU) of the U.S. Department of State is providing the OpenStreetMap community access to updated satellite imagery services through its MapGive program. For the area around the volcano you can use the imagery provided by HIU, while on the southern part of the island Bing imagery is sufficient. 
+Many active volcanoes lack open data about the infrastructure surrounding them, making it difficult to determine risk posed by volcanic hazards. This problem is especially evident in Indonesia. As a nation made up of thousands of volcanic islands, most of the cities are located within close proximity to active volcanoes. Since 1980, approximately 300,000 Indonesians have been affected at a cost of $160 million USD. Despite number of affected Indonesians, very little effort has been made to map the surrounding communities.
+
+Despite the risks associated with volcanic events, many people live near active volcanoes. It’s somewhat unavoidable when a country is made up of many volcanic islands. The location of major cities in Indonesia presents a problem for disaster management agencies who struggle to mitigate the risks volcanoes pose to local populations. In order to plan for the eventuality of a volcanic event some basic information is essential.
 
 </div>
 
