@@ -4,7 +4,6 @@ title: Residential Roads
 category: tip
 images:
   - https://cloud.githubusercontent.com/assets/2665840/6719965/236f0a88-cd95-11e4-8e8a-d02e3b04c146.jpg
-  - http://i.imgur.com/n1eerob.jpg
 tags: [residential, Vehicles, remote]
 ---
 
