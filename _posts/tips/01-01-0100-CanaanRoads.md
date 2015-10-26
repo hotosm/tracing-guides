@@ -7,4 +7,4 @@ images:
 tags: [Canaan, iD, roads]
 ---
 
-First we trace them, then we classify them. The whole process looks like this:
+The whole process of creating a road looks is captured in the GIF to the left. Click on the image for a larger version of the image.
