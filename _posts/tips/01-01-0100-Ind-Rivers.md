@@ -3,7 +3,6 @@ tipid: riversline
 title: Rivers as Lines
 category: tip
 images:
-  - http://i.imgur.com/qAxFCkk.png
   - http://i.imgur.com/3YZeX2S.gif
 tags: [Indonesia, iD, Rivers]
 ---
