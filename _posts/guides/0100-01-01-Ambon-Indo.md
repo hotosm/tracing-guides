@@ -4,7 +4,7 @@ subtitle: Mapping Climate Change Effects
 category: Guide
 layout: guide2-1
 banner: 
-  - https://cloud.githubusercontent.com/assets/7816685/6836971/a1085b60-d31d-11e4-86b9-e5dc28dc087c.jpg
+  - https://upload.wikimedia.org/wikipedia/commons/8/86/Ambon_and_Lease_Islands_%28Uliasers%29_de.png
 footer:
   - http://www.usaid.gov/sites/all/themes/usaid/logo.png
 tips:
