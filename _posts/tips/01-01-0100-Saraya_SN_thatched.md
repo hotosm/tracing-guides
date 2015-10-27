@@ -1,6 +1,6 @@
 ---
-tipid: Saraya_Senegal mbuildings
-title: Metal Roof Buildings
+tipid: Saraya_Senegal tbuildings
+title: Thatched Roof Buildings
 category: tip
 excerpt:
 tags: [Saraya, Senegal, Malaria, Building]
