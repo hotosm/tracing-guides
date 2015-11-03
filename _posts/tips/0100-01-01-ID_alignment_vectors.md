@@ -2,9 +2,8 @@
 tipid: id alignment vector
 title: iD vector alignment
 category: tip
-images:
-  - image:
-     link: https://cloud.githubusercontent.com/assets/2665840/6720917/5ae54f82-cd9e-11e4-955f-16de6bf61ec7.gif
+images: 
+ - https://cloud.githubusercontent.com/assets/2665840/6720917/5ae54f82-cd9e-11e4-955f-16de6bf61ec7.gif
 tags: [imagery,alignment, vector]
 ---
 
