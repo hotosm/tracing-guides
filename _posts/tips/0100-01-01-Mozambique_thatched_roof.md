@@ -9,4 +9,4 @@ images:
 tags: [Mozambique, thatched roof, buildings, iD]
 ---
 
-Many buildings in Mozambique are made with brick and mud and have thatched roofs, as featured in this image. 
+Many buildings in Mozambique are made with brick and mud and have thatched roofs, as featured in this image.  Thatch is a roofing material made from dry vegetation, and made into a roof by layering vegetation to shed water away from the inner roof.  Thatch roofs have a rounded appearance and typically do not have edges and corners that are as defined as metal roofs. 
