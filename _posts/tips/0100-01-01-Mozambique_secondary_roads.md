@@ -8,4 +8,4 @@ images:
   - https://cloud.githubusercontent.com/assets/11095450/10104737/584b8464-6379-11e5-928d-cd3a9b9d9c8d.JPG
 tags: [Mozambique, secondary, roads, iD]
 ---
-Secondary roads connect regional capital cities and towns of some importance that feature health services, commerce, etc. Secondary roads in Mozambique may be paved or unpaved. 
+Secondary roads connect regional capital cities and towns of some importance that feature health services, commerce, etc. These roads in Mozambique may have an alphanumeric name, be paved or unpaved, with paved roads often being covered in dirt or dust.  In larger urban areas secondary roads can have two lanes which are sometimes split with a median.  
