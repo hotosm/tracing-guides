@@ -10,4 +10,4 @@ images:
   - https://cloud.githubusercontent.com/assets/11095450/10103253/de58c53e-6370-11e5-9afe-89006ad5ac63.png
 ---
 
-Many buildings in Mozambique are made with mud and brick and have a metal roof.  
+Many buildings in Mozambique are made with mud and brick and have a metal roof.  Metal roofing material can come in various colors, shapes, and sizes.  Metal roof buildings can be identified by their square or rectangle shape, and usually have a defined pitch to displace rainwater during the wet season.  
