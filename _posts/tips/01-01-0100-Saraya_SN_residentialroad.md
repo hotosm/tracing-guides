@@ -5,8 +5,8 @@ category: tip
 excerpt:
 tags: [Saraya, Senegal, Malaria, Road, Residential]
 images:
-  - https://cloud.githubusercontent.com/assets/11095450/10434907/761213ae-70ea-11e5-9798-f8c1247d568e.png
-  - https://cloud.githubusercontent.com/assets/11095450/10434922/a8b40e5c-70ea-11e5-95d2-f18625192003.png
+  - https://cloud.githubusercontent.com/assets/11095450/10436021/cb22f85c-70f1-11e5-9c0a-80ee576f8810.png
+  - https://cloud.githubusercontent.com/assets/11095450/10436023/cede0374-70f1-11e5-8f87-4a017969b703.png
   - https://cloud.githubusercontent.com/assets/11095450/10435505/715aa5de-70ee-11e5-8635-8bb6d59926a9.jpg
 ---
 
