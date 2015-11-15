@@ -38,7 +38,7 @@ tips:
 
 <h1 class="section-heading">Bandung City, West Java</h1>
 
-Bandung, Indonesia is the capital of West Java province in Indonesia and the country's third largest city with a population of ~2.5 million. The city is located in a mountain "bowl" (surrounded by mountains), and receives significant precipitation during the rainy season. Indonesia recently declared state of emergency when hundreds of thousands of hectares of paddy fields flooded in late 2014. For a better look at the city, see 
+Bandung, Indonesia is the capital of West Java province in Indonesia and the country's third largest city with a population of ~2.5 million. The city is located in a mountain "bowl" (surrounded by mountains), and receives significant precipitation during the rainy season. Indonesia recently declared state of emergency when hundreds of thousands of hectares of paddy fields flooded in late 2014. A better view of the city's infrastructure and layout can be seen 
 <a href="https://www.youtube.com/watch?v=hwP8whJwvw8">HERE</a>
 
 </div>
