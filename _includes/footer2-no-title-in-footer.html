@@ -1,0 +1,56 @@
+<div class="banner">
+
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-6">
+
+            </div>
+            <img src="{{page.footer[0] }}" hspace="20"></img> 
+            <img src="{{page.footer[1] }}" hspace="20"></img>
+            <div class="col-lg-6">
+                <ul class="list-inline banner-social-buttons">
+                    {% for social in site.social %}
+                    <li>
+                        <a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+    </div>
+    <!-- /.container -->
+
+</div>
+<!-- /.banner -->
+
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="list-inline">
+                    <li>
+                        <a href="#">{{ page.title }}</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                      <a href="#about">About</a>
+                    </li>
+                    {% for tip in page.tips %}
+                      {% for post in site.categories['tip'] %}
+                        {% if tip == post.tipid %}
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                      <a href="#{{post.tipid}}">{{ post.title }}</a>
+                    </li>
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}    
+                </ul>
+                
+            </div>
+        </div>
+    </div>
+</footer>
