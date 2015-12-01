@@ -32,7 +32,8 @@ tips:
 
 <h2 class="section-heading">Piura, Peru</h2>
 
- <p>Pokhara is located near the base of the Himalayas, where the residents are subject to earthquakes and flooding events from the Seti Gandaki River. Help us to map critical infrastructure in Pokhara. Using current high-resolution imagery, we will digitize roads, and open areas within the city. OpenStreetMap will be used as the platform to digitize and store data for usage by first responders, planners and geospatial enthusiasts.</p>
+ <p>The Piura MapGive Field Project will introduce field data collection techniques in OpenStreetMap (OSM). The workshop will introduce a suite of skills and tools designed to empower participants with the capability to map Piura comprehensively. The open map data created can be used for various types of analysis and visualization. Data collection will focus on mappable infrastructure and amenities within human geography themes.
+  </p>
 
 <!--
 </div>
