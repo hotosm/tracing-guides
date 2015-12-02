@@ -27,6 +27,7 @@ tips:
   #- validating-volcano-3
   - Buildings
   - riversline
+  - id-es-find-points-basketball
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
