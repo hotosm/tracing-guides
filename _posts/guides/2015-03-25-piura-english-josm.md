@@ -15,26 +15,16 @@ tips:
   - josm-start-from-tm
   - josm-loading-bing
   - josm-draw-basic-highway
+  - josm-draw-roundabout
   - josm-draw-basic-building
   - josm-draw-with-building-tool
   - josm-combine-buildings
   - josm-copy-buildings
-  #- ID_alignment
-  #- canaanroads
-  #- tracing roads nodes
-  #- roads-intersect
-  #- classifying roads generally
-  #- tertiary roads
-  #- residential roads 2
-  #- tracks
-  #- unclassified roads
-  #- paths
-  #- residential areas
-  #- common areas
-  #- validating-volcano
-  #- validating-volcano-2
-  #- validating-volcano-3
-  #- Buildings
+  - josm-building-shift
+  - josm-point-water-tower
+  - josm-point-basketball-court
+  - josm-polygon-pool
+  - josm-validation
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
