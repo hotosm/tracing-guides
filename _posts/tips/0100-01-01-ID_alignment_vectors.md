@@ -1,5 +1,5 @@
 ---
-tipid: id alignment vector
+tipid: id-alignment-vectors-generic
 title: iD vector alignment
 category: tip
 images: 
@@ -7,5 +7,4 @@ images:
 tags: [imagery,alignment, vector]
 ---
 
-While editing you may encounter a situation where existing features exist that were drawn based on older low-resolution imagery. 
-You need to adjust the existing vectors in iD editor to match the new imagery.
+While editing you may encounter a situation where existing features exist that are not aligned well. You need to adjust the existing vectors in iD editor to match the imagery.

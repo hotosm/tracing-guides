@@ -1,5 +1,5 @@
 ---
-title: La Guía de Mapeo Para Piura
+title: Piura Mapping Guide
 subtitle: Peru
 category: Guide
 layout: guide3-no-title-in-footer
@@ -7,7 +7,6 @@ banner: https://cloud.githubusercontent.com/assets/2665840/11410235/c150b598-939
 footer: 
   - 
 tips:
-  #- id alignment vector
   - osmtm_license_access
   - osm-change-language
   - gettingstarted brightness settings 2
