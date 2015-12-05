@@ -7,25 +7,17 @@ banner: https://cloud.githubusercontent.com/assets/2665840/11410235/c150b598-939
 footer: 
   - 
 tips:
-  #- id alignment vector
-  - osmtm_license_access
-  - osm-change-language
-  - gettingstarted brightness settings 2
-  - id-draw-roads
-  - tracing roads nodes
-  #- roads-intersect
+  - osmtm-license-access-es
+  - osm-change-language-es
+  - iD-getting-started-brightness-settings-2-es
+  - iD-draw-roads-es
+  - iD-tracing-roads-nodes-es
   - classifying roads generally
   - tertiary roads
   - residential roads 2
-  #- tracks
   - unclassified roads
   - paths
   - id-alignment-vectors-generic
-  #- residential areas
-  #- common areas
-  #- validating-volcano
-  #- validating-volcano-2
-  #- validating-volcano-3
   - Buildings
   - riversline
   - id-es-find-points-basketball

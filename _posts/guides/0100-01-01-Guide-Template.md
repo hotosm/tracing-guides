@@ -1,5 +1,5 @@
 ---
-title: #Title of Guide 
+title: Guide Template '#Title of Guide' 
 subtitle: #Subtitle of Guide, if needed
 category: Guide
 layout: #Choose a guide from /_layouts/
