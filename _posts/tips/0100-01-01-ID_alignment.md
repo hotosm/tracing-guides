@@ -2,6 +2,7 @@
 title: Alignment
 tipid: ID_alignment
 category: tip
+layout: tip-preview
 images: 
   - http://i.imgur.com/cOVMr7x.gif
 editor: ID

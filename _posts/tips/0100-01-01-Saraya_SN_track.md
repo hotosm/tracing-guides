@@ -2,6 +2,7 @@
 tipid: Saraya_Senegal track
 title: Track
 category: tip
+layout: tip-preview
 excerpt:
 tags: [Saraya, Senegal, Malaria, Road, Track]
 images:

@@ -2,6 +2,7 @@
 tipid: Saraya_Senegal unclassified road
 title: Unclassified Roads
 category: tip
+layout: tip-preview
 excerpt:
 tags: [Saraya, Senegal, Malaria, Road, Unclassified]
 images:

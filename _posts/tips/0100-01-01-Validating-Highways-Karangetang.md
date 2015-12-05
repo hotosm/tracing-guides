@@ -2,6 +2,7 @@
 tipid: validating-volcano-3
 title: Highways
 category: tip
+layout: tip-preview
 images:
 tags: [Karangetang, Validation, Tasking Manager, Highways]
 ---

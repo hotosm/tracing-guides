@@ -2,6 +2,7 @@
 tipid: roads-nodes
 title: Just The Right Amount Of Nodes
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/7431774/6626269/cef8b7e2-c8cb-11e4-8cda-7d1246185bf8.png
 tags: [Highways, Nodes]

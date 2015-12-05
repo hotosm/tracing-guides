@@ -29,6 +29,7 @@ title: 'Main'
       <th>Name</th>
       <th>Tip ID</th>
       <th>Tags</th>
+      <th>File Name</th>
     </thead>
     <tbody>
       {% for post in site.categories['tip'] %}
@@ -36,6 +37,7 @@ title: 'Main'
         <td><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></td>
         <td>{{ post.tipid }}</td>
         <td>{{ post.tags | array_to_sentence_string }}</td>
+        <td>{{ post.path | remove: "_posts/tips/" }}</td>
       </tr>
       {% endfor %}
     </tbody>

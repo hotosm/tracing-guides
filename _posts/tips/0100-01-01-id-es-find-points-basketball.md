@@ -2,6 +2,7 @@
 tipid: id-es-find-points-basketball
 title: Buscando Puntos Nuevos
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Buscando Puntos Nuevos

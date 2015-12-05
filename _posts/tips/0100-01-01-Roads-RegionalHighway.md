@@ -2,6 +2,7 @@
 tipid: rhighway
 title: Regional Highway
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6478041/b88fe9c8-c1f8-11e4-88e0-264cb9bea612.PNG
   - https://cloud.githubusercontent.com/assets/4990708/6478043/bae49ef8-c1f8-11e4-9272-daf36e2f1389.PNG

@@ -2,6 +2,7 @@
 tipid: areariver
 title: Area River
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6395711/e3938f58-bda7-11e4-8a2f-bd796d18607c.PNG
   - https://cloud.githubusercontent.com/assets/6749884/6696129/4744304c-ccbd-11e4-8392-d1511a2cc771.PNG

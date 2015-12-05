@@ -2,6 +2,7 @@
 tipid: indotertroads
 title: Tertiary Roads
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/l2sUktg.png
   - http://i.imgur.com/dMo7vUe.png

@@ -2,6 +2,7 @@
 tipid: josm-draw-with-building-tool
 title: Draw with building tool
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Draw with building tool

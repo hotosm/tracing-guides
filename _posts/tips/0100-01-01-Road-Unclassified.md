@@ -2,6 +2,7 @@
 tipid: unclassroad
 title: Unclassified Road
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6808868/0b8b22e8-d22d-11e4-8591-6c5e7b1905ad.PNG
   - https://cloud.githubusercontent.com/assets/4990708/6808867/0b85f110-d22d-11e4-9dfc-826d03990b5f.PNG

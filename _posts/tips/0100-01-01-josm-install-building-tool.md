@@ -2,6 +2,7 @@
 tipid: josm-install-building-tool
 title: Install the building tool plug-in
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Install the building tool plug-in

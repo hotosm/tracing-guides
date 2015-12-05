@@ -2,6 +2,7 @@
 tipid: josm-loading-bing
 title: Load the Correct Imagery
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: loading Bing imagery

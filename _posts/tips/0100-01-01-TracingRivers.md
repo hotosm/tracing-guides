@@ -2,6 +2,7 @@
 tipid: rivers
 title: Rivers (Lines and Area)
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/7816685/6697631/4f459a3c-ccc8-11e4-9cb2-474e489e2e33.gif
   - https://cloud.githubusercontent.com/assets/7816685/6697633/4f4633ca-ccc8-11e4-816e-1177471f8aa3.gif

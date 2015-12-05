@@ -2,6 +2,7 @@
 tipid: common areas
 title: Common Areas
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/2665840/6873624/0b85edfc-d488-11e4-9a07-aadb38b0a041.gif
 tags: [Liberia, iD, custom imagery, common areas, leisure]

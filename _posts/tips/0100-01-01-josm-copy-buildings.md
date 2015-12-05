@@ -2,6 +2,7 @@
 tipid: josm-copy-buildings
 title: How to Copy Buildings
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: How to Copy Buildings

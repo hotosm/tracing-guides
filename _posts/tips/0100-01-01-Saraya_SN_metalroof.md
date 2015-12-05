@@ -2,6 +2,7 @@
 tipid: Saraya_Senegal mbuildings
 title: Metal Roof Buildings
 category: tip
+layout: tip-preview
 excerpt:
 tags: [Saraya, Senegal, Malaria, Building]
 images:

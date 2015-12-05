@@ -2,6 +2,7 @@
 tipid: nhighway
 title: National Highway
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6589781/260e6910-c77c-11e4-9d70-b6f8b0dd3895.PNG
   - https://cloud.githubusercontent.com/assets/4990708/6589785/53ab5e5a-c77c-11e4-99e4-ead5818b8a6f.PNG

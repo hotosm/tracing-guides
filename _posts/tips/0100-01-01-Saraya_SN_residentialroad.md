@@ -2,6 +2,7 @@
 tipid: Saraya_Senegal residential road
 title: Residential Roads
 category: tip
+layout: tip-preview
 excerpt:
 tags: [Saraya, Senegal, Malaria, Road, Residential]
 images:

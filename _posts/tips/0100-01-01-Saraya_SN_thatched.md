@@ -2,6 +2,7 @@
 tipid: Saraya_Senegal tbuildings
 title: Thatched Roof Buildings
 category: tip
+layout: tip-preview
 excerpt:
 tags: [Saraya, Senegal, Malaria, Building]
 images:

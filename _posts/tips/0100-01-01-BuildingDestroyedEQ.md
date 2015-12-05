@@ -2,6 +2,7 @@
 tipid: BuildingNP
 title: Destroyed or Collapsed
 category: tip
+layout: tip-preview
 images:
   - http://en.wikinews.org/wiki/Chilean_earthquakes:_in_pictures#/media/File:2010_Chile_earthquake_-_Building_destroyed_in_Concepci%C3%B3n.jpg
 tags: [Nepal, Earthquake, Building, Destroyed, Collapsed]

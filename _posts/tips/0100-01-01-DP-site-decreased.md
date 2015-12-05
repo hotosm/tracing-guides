@@ -2,6 +2,7 @@
 tipid: IDP-site-decreased
 title: Tagging Example
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Tagging Example

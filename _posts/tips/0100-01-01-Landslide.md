@@ -2,6 +2,7 @@
 tipid: Landslides
 title: Landslides and Road Blocks
 category: tip
+layout: tip-preview
 images:
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Before.JPG
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_Tag.JPG

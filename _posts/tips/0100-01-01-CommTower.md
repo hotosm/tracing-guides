@@ -2,6 +2,7 @@
 tipid: communication_tower
 title: Communication Tower
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/22896/6656989/b1126db0-cb12-11e4-98fe-4a4cd6eed4d4.png
   - https://cloud.githubusercontent.com/assets/22896/6656990/b11ecf06-cb12-11e4-9bfc-17f53a9ee8a5.png

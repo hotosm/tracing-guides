@@ -2,6 +2,7 @@
 tipid: josm-combine-buildings
 title: How to Combine Buildings
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: How to Combine Buildings

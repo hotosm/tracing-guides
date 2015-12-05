@@ -2,6 +2,7 @@
 tipid: IDP-update-intro
 title: Updating IDP Sites
 category: tip
+layout: tip-preview
 images:
 tags: [Nepal, Kathmandu, Earthquake, IDP, Camp]
 ---

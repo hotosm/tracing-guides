@@ -2,6 +2,7 @@
 tipid: IDPsettlement
 title: IDP Settlement
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/7395463/042b962a-ee68-11e4-8b06-2d4fe448f7c8.JPG
   - https://cloud.githubusercontent.com/assets/4990708/7395641/341cfefe-ee69-11e4-81d8-d674ffd50fb5.JPG

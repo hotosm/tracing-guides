@@ -2,6 +2,7 @@
 tipid: SecondRdsNP
 title: Secondary Roads
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/0P2ES7q.png
   - http://i.imgur.com/73NLMKq.png

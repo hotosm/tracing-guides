@@ -2,6 +2,7 @@
 tipid: riversline
 title: Rivers as Lines
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/3YZeX2S.gif
 tags: [Indonesia, iD, Rivers]

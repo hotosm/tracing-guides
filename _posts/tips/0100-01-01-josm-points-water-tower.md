@@ -2,6 +2,7 @@
 tipid: josm-point-water-tower
 title: Draw points, water tower example
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/Zc3fnS6.gif
 tags: [josm]

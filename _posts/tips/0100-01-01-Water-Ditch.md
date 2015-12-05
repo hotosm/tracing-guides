@@ -2,6 +2,7 @@
 tipid: ditch
 title: Ditch
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6421057/87f35406-be99-11e4-9e9d-d35a60a931ad.PNG
   - https://cloud.githubusercontent.com/assets/4990708/6421058/89e26ae0-be99-11e4-94fb-7cb54a5c28b8.PNG

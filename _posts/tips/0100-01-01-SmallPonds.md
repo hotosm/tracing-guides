@@ -2,6 +2,7 @@
 tipid: smallponds
 title: Small Ponds and Catchments
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/7816685/6696650/4a2bc91a-ccc1-11e4-8b29-38b134ac5e9d.png
   - https://cloud.githubusercontent.com/assets/7816685/6696649/4a235da2-ccc1-11e4-9276-354e050f7a70.png

@@ -2,6 +2,7 @@
 tipid: splitting-grids
 title: Splitting A Square
 category: tip
+layout: tip-preview
 images: 
  - https://cloud.githubusercontent.com/assets/7431774/6856929/9b961d18-d3d9-11e4-8bd6-b31e8f59cd12.gif
 tags: [Tasking Manager, Splitting]

@@ -2,6 +2,7 @@
 tipid: josm-polygon-pool
 title: Draw pool
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/EYqAFTk.gif
 tags: [josm]

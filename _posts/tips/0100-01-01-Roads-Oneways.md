@@ -2,6 +2,7 @@
 tipid: roads-oneways
 title: Oneways 
 category: tip
+layout: tip-preview
 images:
 tags: [Highways, Roads, Tags]
 ---

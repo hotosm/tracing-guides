@@ -2,6 +2,7 @@
 tipid: IDPsite-tagging
 title: IDP Site Tagging Scheme
 category: tip
+layout: tip-preview
 images:
   - image:
      size: large

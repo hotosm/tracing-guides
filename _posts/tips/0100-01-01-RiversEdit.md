@@ -2,6 +2,7 @@
 tipid: riversedit
 title: Editing Rivers
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/g0xp87b.gif
 tags: [Indonesia, iD, Rivers]

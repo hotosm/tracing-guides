@@ -2,6 +2,7 @@
 tipid: highway-types
 title: Everything Is A Highway 
 category: tip
+layout: tip-preview
 images:
 tags: [Highways, Roads, Tags]
 ---

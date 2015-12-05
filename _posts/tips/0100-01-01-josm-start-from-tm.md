@@ -2,6 +2,7 @@
 tipid: josm-start-from-tm
 title: Start JOSM from Tasking Manager
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Start JOSM from Tasking Manager

@@ -2,6 +2,7 @@
 tipid: iD-tracing-roads-nodes-es
 title: Tracing Roads
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: tracing nodes

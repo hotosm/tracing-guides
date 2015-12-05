@@ -2,6 +2,7 @@
 tipid: canaan-buildings
 title: Canaan Buildings
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/9657971/6358094/324d4c5a-bc37-11e4-808a-47a0fdb59700.png
 tags: [Haiti, Canaan, Buildings]

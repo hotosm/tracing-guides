@@ -2,6 +2,7 @@
 tipid: Mozambique_secondary_roads
 title: Secondary Roads
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/11095450/10112310/1717dd24-63a8-11e5-98bc-9ba60148d73b.png
   - https://cloud.githubusercontent.com/assets/11095450/10112312/19fe9d52-63a8-11e5-9653-67cd0bbea534.png

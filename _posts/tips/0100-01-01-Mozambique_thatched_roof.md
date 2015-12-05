@@ -2,6 +2,7 @@
 tipid: Mozambique_thatched_roof_buildings
 title: Thatched Roof Buildings
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/11095450/10113011/454c9436-63ae-11e5-9014-1cd357f28b0a.png
   - https://cloud.githubusercontent.com/assets/11095450/10113012/48007b8e-63ae-11e5-87b4-29abac674a19.png

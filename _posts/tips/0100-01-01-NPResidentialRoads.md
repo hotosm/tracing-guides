@@ -2,6 +2,7 @@
 tipid: ResRdsNP
 title: Residential Roads
 category: tip
+layout: tip-preview
 images:
   - http://i.imgur.com/cIk9eAh.png?1
   - http://i.imgur.com/zFRQWH5.png?1

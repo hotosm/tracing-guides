@@ -2,6 +2,7 @@
 tipid: classifying roads generally
 title: Classifying Roads
 categories: tip
+layout: tip-preview
 excerpt:
 tags: [roads, iD, unpaved, classifying, highway ]
 images:

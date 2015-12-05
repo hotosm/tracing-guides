@@ -2,6 +2,7 @@
 tipid: canaan-gettingstarted
 title: Getting Started
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Getting Started

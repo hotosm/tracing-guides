@@ -2,6 +2,7 @@
 tipid: iD-draw-roads-es
 title: Roads
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Draw Roads

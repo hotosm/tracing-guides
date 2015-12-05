@@ -2,6 +2,7 @@
 tipid: josm-draw-roundabout
 title: Draw roundabout
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Draw roundabout

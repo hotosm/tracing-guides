@@ -2,6 +2,7 @@
 tipid: osm-change-language-es
 title: Change language in OpenStreetmap
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Change language in OpenStreetmap

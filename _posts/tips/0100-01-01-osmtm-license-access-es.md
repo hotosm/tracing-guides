@@ -2,6 +2,7 @@
 tipid: osmtm-license-access-es
 title: OSM License
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/7431774/6679362/fa6672c6-cc1c-11e4-85a4-d51e5da60523.gif
 tags: [OSMTM]

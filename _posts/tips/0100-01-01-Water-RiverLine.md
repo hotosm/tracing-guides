@@ -2,6 +2,7 @@
 tipid: LinearRiver
 title: River
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/4990708/6735589/7cc18070-ce35-11e4-8478-20c80f9af08d.png
   - https://cloud.githubusercontent.com/assets/4990708/6735600/89df26fe-ce35-11e4-8b38-6daf23ca3502.png

@@ -2,6 +2,7 @@
 tipid: validating-volcano-2
 title: Buildings
 category: tip
+layout: tip-preview
 images:
 tags: [Karangetang, Validation, Tasking Manager, Buildings]
 ---

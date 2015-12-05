@@ -2,6 +2,7 @@
 tipid: khulnabuilding
 title: Buildings
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/6749884/6804990/18fde8fe-d217-11e4-842b-80bf42af562e.png
   - https://cloud.githubusercontent.com/assets/6749884/6804991/18fe5d3e-d217-11e4-9758-e0f0610c5695.png

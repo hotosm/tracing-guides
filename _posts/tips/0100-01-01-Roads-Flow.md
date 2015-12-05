@@ -2,6 +2,7 @@
 tipid: roads-flow
 title: Follow the Flow 
 category: tip
+layout: tip-preview
 images:
   - https://cloud.githubusercontent.com/assets/7431774/6628807/cf1f5fec-c8de-11e4-9716-cadd2d33cf2d.jpg
 tags: [Highways, Direction]

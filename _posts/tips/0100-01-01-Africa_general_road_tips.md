@@ -2,6 +2,7 @@
 tipid: classifying roads in africa
 title: Classifying Dirt Roads
 categories: tip
+layout: tip-preview
 excerpt:
 tags: [roads, iD, unpaved, Africa, Liberia, classifying, highway ]
 images:

@@ -3,6 +3,7 @@ title: Buildings
 tipid: Buildings
 modified:
 categories: tip
+layout: tip-preview
 excerpt:
 tags: [buildings, iD]
 images:

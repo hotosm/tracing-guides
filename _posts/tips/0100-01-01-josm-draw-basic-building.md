@@ -2,6 +2,7 @@
 tipid: josm-draw-basic-building
 title: Draw basic building
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Draw basic building

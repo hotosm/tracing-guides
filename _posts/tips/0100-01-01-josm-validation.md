@@ -2,6 +2,7 @@
 tipid: josm-validation
 title: Validate your work
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Validate your work

@@ -2,6 +2,7 @@
 tipid: josm-draw-basic-highway
 title: Draw basic highway
 category: tip
+layout: tip-preview
 images:
   - image:
      caption: Draw basic highway
