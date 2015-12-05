@@ -12,14 +12,14 @@ tips:
   - iD-getting-started-brightness-settings-2-es
   - iD-draw-roads-es
   - iD-tracing-roads-nodes-es
-  - classifying roads generally
-  - tertiary roads
-  - residential roads 2
-  - unclassified roads
-  - paths
+  - general-road-tips-es
+  - tertiary_roads-es
+  - residential-roads-2-es
+  - unclassified-roads-es
+  - paths-es
   - id-alignment-vectors-generic
-  - Buildings
-  - riversline
+  - buildings-es
+  - ind-rivers-es
   - id-es-find-points-basketball
 ---
 
