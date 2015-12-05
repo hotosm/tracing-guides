@@ -21,7 +21,28 @@
     <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.4/angular.min.js"></script>-->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0-beta.4/angular-route.min.js"></script>-->
     <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
-    <style type="text/css">[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}</style>
+
+    <script src="{{ site.baseurl }}/assets/js/sorttable.js"></script>
+
+    <style type="text/css">[
+
+      ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}
+
+      /* Sortable tables */
+      table.sortable thead {
+          background-color:#eee;
+          color:#666666;
+          font-weight: bold;
+          cursor: default;
+      }
+
+
+          table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after { 
+          content: " \25B4\25BE" 
+      }
+
+    </style>
+    
   </head>
   <body>
     <div class="container-fluid">
