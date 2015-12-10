@@ -34,6 +34,7 @@ tips:
 <hr class="section-heading-spacer">
 <div class="clearfix"></div>
 
+
 <h2 class="section-heading">Piura, Peru</h2>
 
  <p>The Piura MapGive Field Project will introduce field data collection techniques in OpenStreetMap (OSM). The workshop will introduce a suite of skills and tools designed to empower participants with the capability to map Piura comprehensively. The open map data created can be used for various types of analysis and visualization. Data collection will focus on mappable infrastructure and amenities within human geography themes.
