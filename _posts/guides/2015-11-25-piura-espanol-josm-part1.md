@@ -1,4 +1,3 @@
-
 ---
 title: 'Piura: JOSM, Guia Parte I'
 subtitle: Peru
