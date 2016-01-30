@@ -8,4 +8,4 @@ images:
 tags: [Indonesia, iD, Rivers]
 ---
 
-Rivers are traced as lines. The entire process is captured in the GIF to the left. Please be sure to trace the river until its natural end. Click on the image to see a larger version.
+Ríos se trazan como líneas. El proceso completo se captura en el GIF a la izquierda. Por favor, asegúrese de trazar  el río hasta su fin natural. Haga clic en la imágen para ver una versión más grande.
