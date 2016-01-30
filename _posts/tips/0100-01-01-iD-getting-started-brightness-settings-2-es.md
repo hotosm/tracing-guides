@@ -8,7 +8,7 @@ images:
 tags: [Liberia, iD, custom imagery]
 ---
 
-Often the default brightness settings in iD editor makes the background imagery difficult to see, but increasing the brightness will help. You can do this in the "Background settings" tab (Shortcut: b).
+A menudo, el ajuste de brillo predeterminado en el editor de iD hace la imagen de fondo difícil de ver,  aumentando el brillo  ayudara a añadir claridad. Se puede ajustar el brillo en la pestaña "Configuración de fondo".
 
 <!--
 ![](https://cloud.githubusercontent.com/assets/2665840/6714557/439cd518-cd6f-11e4-81ae-82540f486d52.gif)
