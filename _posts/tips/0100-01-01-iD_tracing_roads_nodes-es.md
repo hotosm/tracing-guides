@@ -12,6 +12,4 @@ editor: ID
 tags: [roads, nodes, vector]
 ---
 
-To trace a road, use the Line tool in iD Editor (Shortcut: 2) and trace along the middle of the road. See below for an example of too few nodes (left), too many nodes (center), and the right amount of nodes (right).
-
-
+Para trazar un camino, utilice la herramienta de línea de iD Editor (Atajo: 2) y traze a lo largo del centro de la carretera. Mira el ejemplo de muy pocos nodos (izquierda), demasiados nodos (centro), y la cantidad correcta de nodos (derecha).
