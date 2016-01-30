@@ -10,6 +10,6 @@ tags: [tertiary, Vehicles]
 
 ####highway = tertiary:
 
-The most obvious, widest paths that you see should be classified as "tertiary roads". These roads are easily seen in the drone imagery and will seem wide enough for two cars to pass.
+Los caminos más amplios que se ven, que también pueden ser los más obvios, deben clasificarse como "caminos terciarios". Estos caminos son fáciles de ver, sobre todo en el imaginario drone, y parecerán lo suficientemente amplios para que dos coches pasen.
 
 
