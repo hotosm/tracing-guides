@@ -11,6 +11,6 @@ images:
 tags: [Canaan, iD, roads]
 ---
 
-The whole process of creating a road looks is captured in the GIF to the left. Click on the image for a larger version of the image.
+Todo el proceso de creación de un camino es capturado en el GIF a la izquierda. Haga clic en la imagen para una versión ampliada de la imagen.
 
 
