@@ -10,4 +10,4 @@ tags: [residential, Vehicles, remote]
 
 <h4>highway = residential:</h4>
 
-<p>This tag is used for roads in or around residential areas except the major roads. Generally we would want you to classify a road this way if you suspect that it is used mostly by people that live on the road. Roads lined by residential buildings are good signs. If your unsure than use 'unclassified' value. </p>
+<p>Esta etiqueta se utiliza para las carreteras en o alrededor de áreas residenciales, excepto las carreteras principales. Generalmente nos gustaría que  clasificara un camino de esta manera si usted sospecha que se utiliza sobre todo por las personas que viven en la carretera. Las carreteras bordeadas por edificios residenciales son buenas señales. Si no está seguro use el valor "sin clasificación". </p>
