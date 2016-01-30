@@ -11,6 +11,5 @@ images:
 tags: [iD]
 ---
 
-This will change the language used in iD-Editor as well
-
+Esto cambiará el idioma utilizado en iD-Editor también.
 
