@@ -1,6 +1,6 @@
 ---
 tipid: josm-start-from-tm-es
-title: Start JOSM from Tasking Manager
+title: Inicie JOSM desde el Administrador de Tareas
 category: tip
 layout: tip-preview
 images:
