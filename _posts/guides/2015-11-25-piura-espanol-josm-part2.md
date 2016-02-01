@@ -1,5 +1,5 @@
 ---
-title: 'Piura: JOSM guide part II'
+title: 'Piura: JOSM, Guia Parte II'
 subtitle: Peru
 category: Guide
 layout: guide3-no-title-in-footer
@@ -7,15 +7,15 @@ banner: https://cloud.githubusercontent.com/assets/2665840/11410235/c150b598-939
 footer: 
   - 
 tips:
-  - josm-draw-basic-building
-  - josm-draw-with-building-tool
-  - josm-combine-buildings
-  - josm-copy-buildings
-  - josm-building-shift
-  - josm-point-water-tower
-  - josm-point-basketball-court
-  - josm-polygon-pool
-  - josm-validation
+  - josm-draw-basic-building-es
+  - josm-draw-with-building-tool-es
+  - josm-combine-buildings-es
+  - josm-copy-buildings-es
+  - josm-building-shift-es
+  - josm-point-water-tower-es
+  - josm-point-basketball-court-es
+  - josm-polygon-pool-es
+  - josm-validation-es
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
