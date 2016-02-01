@@ -1,6 +1,6 @@
 ---
 tipid: iD-draw-roads-es
-title: Roads
+title: Caminos
 category: tip
 layout: tip-preview
 images:
