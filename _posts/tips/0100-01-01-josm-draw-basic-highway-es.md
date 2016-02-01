@@ -1,6 +1,6 @@
 ---
 tipid: josm-draw-basic-highway-es
-title: Draw basic highway
+title: Dibuje autopista básica
 category: tip
 layout: tip-preview
 images:
