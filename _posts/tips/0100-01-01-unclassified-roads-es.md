@@ -10,8 +10,8 @@ tags: [unclassified, Vehicles]
 
 <h4>highway = unclassified:</h4>
 
-<p>This classification is used for minor public roads typically at the lowest level of the interconnecting grid network. Unclassified roads have lower importance in the road network than tertiary roads, and are not residential streets or agricultural tracks. Unclassified roads are considered usable by motor cars.</p> 
+<p>Esta clasificación se utiliza para las vías públicas menores típicamente en el nivel más bajo de la red de rejilla de interconexión. Carreteras clasificación tienen menor importancia en la red vial de caminos terciarios, y no son las calles residenciales o pistas agrícolas. Carreteras clasificación se consideran utilizables por vehículos de motor.</p> 
 
-<p>Tip: if a minor roads is not a residential street or agricultural track, then mark is as an unclassified road.<p>
+<p>Consejo: si un carreteras secundarias no es una calle residencial o pista agrícola, entonces marca es como un camino sin clasificar.<p>
 
 
