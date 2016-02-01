@@ -1,6 +1,6 @@
 ---
 tipid: general-road-tips-es
-title: Classifying Roads
+title: Clasificando Caminos
 categories: tip
 layout: tip-preview
 excerpt:
