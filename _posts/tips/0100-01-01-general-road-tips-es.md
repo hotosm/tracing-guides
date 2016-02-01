@@ -11,15 +11,11 @@ images:
 
 #### highway = *
 
-All roads are classified as some type of highway. Roads are primarily classified based on their function. Tertiary roads connect villages and major streets in towns of some importance. Secondary and Primary roads connect medium and large cities. Motarways are restricted access highways. Sometimes it is difficult to immediately recognize what type of roads exist. An option is being able to re-classify some of the roads at a later point.
+Todos los caminos se clasifican como algún tipo de carretera. Las carreteras se clasifican principalmente en base a su función. Carreteras terciarias conectan pueblos y las principales calles en las ciudades de cierta importancia. Las carreteras secundarias y primarias conectan ciudades medianas y grandes. Las autopistas son las carreteras de acceso restringido. A veces es difícil reconocer de inmediato qué tipo de carreteras están ahí. Es posible volver a clasificar algunas de las carreteras en un momento posterior.
 
-In this project, most of the roads you collect will be either a tertiary road, residential road, track, or path. 
+En este proyecto, la mayoría de las carreteras que usted seleccione seran ya sea un camino terciario, residencial carretera, pista o ruta.
 
-#### surface = *
+#### superficie = *
 
-In addition to using the highway tag, one can indicate the physical surface of the road with the surface tag:
-
-Generically, a hard surface (asphalt, cobblestone, concrete...) is indicated with surface=paved and a soft one (ground, sand...) with surface=unpaved.
-
-
-
+Además de utilizar la etiqueta de la carretera, se puede indicar la superficie física de la carretera con la etiqueta de la superficie:
+Genéricamente, una superficie dura (asfalto, adoquines, hormigón ...) se indica con la superficie = pavimentada y una suave (tierra, arena ...) con la superficie = sin pavimentar.
