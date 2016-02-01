@@ -1,6 +1,6 @@
 ---
 tipid: ind-rivers-es
-title: Rivers as Lines
+title: Ríos como Líneas
 category: tip
 layout: tip-preview
 images:
