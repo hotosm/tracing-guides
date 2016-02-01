@@ -1,6 +1,6 @@
 ---
 tipid: josm-draw-basic-building-es
-title: Draw basic building
+title: Dibuje un edificio basico
 category: tip
 layout: tip-preview
 images:
