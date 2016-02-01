@@ -1,6 +1,6 @@
 ---
 tipid: id-alignment-vectors-generic-es
-title: iD vector alignment
+title: ID alineación vectorial
 category: tip
 layout: tip-preview
 images: 
