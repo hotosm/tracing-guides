@@ -1,6 +1,6 @@
 ---
 tipid: josm-install-building-tool-es
-title: Install the building tool plug-in
+title: Instale el Plug-in "las herramientas de contrucion"
 category: tip
 layout: tip-preview
 images:
