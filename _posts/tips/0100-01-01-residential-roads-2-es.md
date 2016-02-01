@@ -1,6 +1,6 @@
 ---
 tipid: residential-roads-2-es
-title: Residential Roads
+title: Carreteras residenciales
 category: tip
 layout: tip-preview
 images:
