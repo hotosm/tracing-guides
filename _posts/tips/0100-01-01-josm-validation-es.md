@@ -1,6 +1,6 @@
 ---
 tipid: josm-validation-es
-title: Validate your work
+title: Validar su trabajo
 category: tip
 layout: tip-preview
 images:
