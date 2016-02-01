@@ -1,6 +1,6 @@
 ---
 tipid: iD-tracing-roads-nodes-es
-title: Tracing Roads
+title: Trazando Caminos
 category: tip
 layout: tip-preview
 images:
