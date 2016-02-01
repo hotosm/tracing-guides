@@ -1,6 +1,6 @@
 ---
 tipid: unclassified-roads-es
-title: Unclassified Roads
+title: Carreteras sin Clasificacion
 category: tip
 layout: tip-preview
 images:
