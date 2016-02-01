@@ -1,6 +1,6 @@
 ---
 tipid: josm-loading-bing-es
-title: Load the Correct Imagery
+title: Cargue la imagen correcta
 category: tip
 layout: tip-preview
 images:
