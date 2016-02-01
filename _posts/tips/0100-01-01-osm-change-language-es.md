@@ -1,6 +1,6 @@
 ---
 tipid: osm-change-language-es
-title: Change language in OpenStreetmap
+title: Cambio de lenguaje en OpenStreetmap
 category: tip
 layout: tip-preview
 images:
