@@ -1,6 +1,6 @@
 ---
 tipid: josm-enable-remote-control-es
-title: Enable Remote control
+title: Habilite "Control remoto"
 category: tip
 layout: tip-preview
 images:
