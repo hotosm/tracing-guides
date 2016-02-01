@@ -1,6 +1,6 @@
 ---
 tipid: tertiary_roads-es
-title: Tertiary Roads
+title: Carreteras terciarias
 category: tip
 layout: tip-preview
 images:
