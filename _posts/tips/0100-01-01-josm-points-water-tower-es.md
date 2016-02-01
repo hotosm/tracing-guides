@@ -1,6 +1,6 @@
 ---
 tipid: josm-point-water-tower-es
-title: Draw points, water tower example
+title: Dibuje puntos, ejemplo de torre de agua
 category: tip
 layout: tip-preview
 images:
