@@ -1,6 +1,6 @@
 ---
 tipid: josm-install-utils2-es
-title: Install utilsplugin2 Plugin
+title: Instale  utilsplugin2 Plugin
 category: tip
 layout: tip-preview
 images:
