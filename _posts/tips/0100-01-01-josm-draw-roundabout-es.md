@@ -1,6 +1,6 @@
 ---
 tipid: josm-draw-roundabout-es
-title: Draw roundabout
+title: Dibuje una rotonda
 category: tip
 layout: tip-preview
 images:
