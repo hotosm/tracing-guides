@@ -1,6 +1,6 @@
 ---
 tipid: josm-copy-buildings-es
-title: How to Copy Buildings
+title: Cómo copiar Edificios
 category: tip
 layout: tip-preview
 images:
