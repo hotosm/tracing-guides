@@ -1,6 +1,6 @@
 ---
 tipid: josm-draw-with-building-tool-es
-title: Draw with building tool
+title: Dibuje utilizando herramientas de construccion
 category: tip
 layout: tip-preview
 images:
