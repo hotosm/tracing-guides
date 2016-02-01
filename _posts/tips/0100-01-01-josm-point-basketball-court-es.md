@@ -1,6 +1,6 @@
 ---
 tipid: josm-point-basketball-court-es
-title: Draw basketball court
+title: Dibuje cancha de baloncesto
 category: tip
 layout: tip-preview
 images:
