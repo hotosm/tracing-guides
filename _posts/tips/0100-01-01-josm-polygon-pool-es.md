@@ -1,6 +1,6 @@
 ---
 tipid: josm-polygon-pool-es
-title: Draw pool
+title: Dibuje piscina
 category: tip
 layout: tip-preview
 images:
