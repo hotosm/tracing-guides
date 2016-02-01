@@ -1,6 +1,6 @@
 ---
 tipid: josm-combine-buildings
-title: How to Combine Buildings
+title: Cómo combinar Edificios
 category: tip
 layout: tip-preview
 images:
