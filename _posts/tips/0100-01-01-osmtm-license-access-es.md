@@ -1,6 +1,6 @@
 ---
 tipid: osmtm-license-access-es
-title: OSM License
+title: Licencia OSM
 category: tip
 layout: tip-preview
 images:
