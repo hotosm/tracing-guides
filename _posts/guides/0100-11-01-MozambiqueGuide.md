@@ -9,9 +9,6 @@ footer:
 tips:
   - group: Getting Started
     tips:
-      - osmtm_license_access
-      - brightness
-      - ID_alignment
   - group: Buildings
     tips:
       - Mozambique_mbuildings
@@ -25,9 +22,7 @@ tips:
       - roads-intersect
   - group: Validation
     tips:
-      - validating-volcano
-      - validating-volcano-2
-      - validating-volcano-3
+      - ID_alignment
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
