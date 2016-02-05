@@ -20,7 +20,7 @@ tips:
       - TRoads_Mozambique	
       - mozambique_rroad
       - roads-intersect
-  - group: Validation
+  - group: Alignment
     tips:
       - ID_alignment
 ---
