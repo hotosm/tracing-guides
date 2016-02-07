@@ -1,7 +1,7 @@
 ---
 title: Teluk Ambon
 subtitle: Mapping Climate Change Effects
-category: Guide
+category: guide
 layout: guide2-1
 banner: 
   - https://upload.wikimedia.org/wikipedia/commons/8/86/Ambon_and_Lease_Islands_%28Uliasers%29_de.png

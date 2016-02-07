@@ -1,7 +1,7 @@
 ---
 title: Malaria Prevention in Mozambique
 subtitle: 
-category: Guide
+category: guide
 layout: guide2-2
 banner:
   - https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png

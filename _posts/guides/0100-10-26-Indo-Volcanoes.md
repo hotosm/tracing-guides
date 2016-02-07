@@ -1,7 +1,7 @@
 ---
 title: Indonesian Volcanoes 
 subtitle: Mapping Vulnerable Communities
-category: Guide
+category: guide
 layout: guide2-1
 banner: 
   - https://cloud.githubusercontent.com/assets/7816685/6836971/a1085b60-d31d-11e4-86b9-e5dc28dc087c.jpg

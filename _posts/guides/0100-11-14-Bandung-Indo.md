@@ -1,7 +1,7 @@
 ---
 title: Bandung City
 subtitle: Mapping Climate Change Effects
-category: Guide
+category: guide
 layout: guide2-1
 banner: 
   - https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Bandung_city_centre%2C_July_2014.jpg/2560px-Bandung_city_centre%2C_July_2014.jpg

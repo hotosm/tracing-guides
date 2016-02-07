@@ -1,7 +1,7 @@
 ---
 title: Guide Template '#Title of Guide' 
 subtitle: #Subtitle of Guide, if needed
-category: Guide
+category: guide
 layout: #Choose a guide from /_layouts/
 banner: #Main image of the Guide. Dimension recommendations coming soon.
   - https://cloud.githubusercontent.com/assets/7816685/6836971/a1085b60-d31d-11e4-86b9-e5dc28dc087c.jpg

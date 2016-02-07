@@ -1,7 +1,7 @@
 ---
 title: 'Piura: JOSM guide Part I'
 subtitle: Peru
-category: Guide
+category: guide
 layout: guide3-no-title-in-footer
 banner: https://cloud.githubusercontent.com/assets/2665840/11410235/c150b598-9393-11e5-937a-eeb5e9765d94.jpg
 footer: 

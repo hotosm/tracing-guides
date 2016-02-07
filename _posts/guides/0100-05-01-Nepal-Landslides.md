@@ -1,7 +1,7 @@
 ---
 title: Nepal Earthquake&#58 Mapping Landslides and Road Blocks 
 subtitle: Landslides and Road Blocks
-category: Guide
+category: guide
 layout: guide3
 banner: 
   - https://raw.githubusercontent.com/hotosm/tracing-guides/gh-pages/images/Landslide_After.JPG
