@@ -4,7 +4,7 @@ title: Ríos como Líneas
 category: tip
 layout: tip-preview
 images:
-  - http://i.imgur.com/3YZeX2S.gif
+  - http://i.imgur.com/muCMFYl.gif
 tags: [Indonesia, iD, Rivers]
 ---
 

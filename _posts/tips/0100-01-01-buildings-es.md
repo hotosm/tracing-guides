@@ -7,7 +7,7 @@ layout: tip-preview
 excerpt:
 tags: [buildings, iD]
 images:
- - https://cloud.githubusercontent.com/assets/7431774/6629871/ee37a952-c8e8-11e4-8e71-a0eda3f814df.gif
+ - http://i.imgur.com/9pjQaGr.gif
 ---
 Tracing buildings takes good imagery and patience. Take your time and pay attention to angularity, alignment between buildings and reflecting the regularities between buildings. 
 
