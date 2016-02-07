@@ -1,6 +1,6 @@
 ---
-title: buildings-es
-tipid: Buildings
+title: Edificios
+tipid: buildings-es
 modified:
 categories: tip
 layout: tip-preview

@@ -17,7 +17,7 @@ tips:
   - residential-roads-2-es
   - unclassified-roads-es
   - paths-es
-  - id-alignment-vectors-generic
+  - id-alignment-vectors-generic-es
   - buildings-es
   - ind-rivers-es
   - id-es-find-points-basketball
