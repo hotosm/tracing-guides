@@ -4,7 +4,7 @@ subtitle: Mapping Vulnerable Communities
 category: guide
 layout: guide2-1
 banner: 
-  - http://unisci24.com/data_images/wlls/13/213507-cotopaxi.jpg
+  - https://volcanocafe.files.wordpress.com/2015/06/cotopaxi1.jpg
 footer:
   - http://www.usaid.gov/sites/all/themes/usaid/logo.png
 tips:
