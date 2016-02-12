@@ -4,7 +4,7 @@ subtitle: Mapping Vulnerable Communities
 category: guide
 layout: guide2-1
 banner: 
-  - https://upload.wikimedia.org/wikipedia/commons/2/20/Cotopaxi_volcano_2008-06-27T1322.jpg
+  - http://unisci24.com/data_images/wlls/13/213507-cotopaxi.jpg
 footer:
   - http://www.usaid.gov/sites/all/themes/usaid/logo.png
 tips:
