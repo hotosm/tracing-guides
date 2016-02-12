@@ -4,7 +4,7 @@ subtitle: Mapping Vulnerable Communities
 category: guide
 layout: guide2-1
 banner: 
-  - https://volcanocafe.files.wordpress.com/2015/06/cotopaxi1.jpg
+  - http://www.kairos.travel/wp-content/uploads/2013/06/Santo-Domingo-kairostravel.jpg
 footer:
   - http://www.usaid.gov/sites/all/themes/usaid/logo.png
 tips:
