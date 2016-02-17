@@ -12,12 +12,14 @@ tips:
     tips:
       - osmtm_license_access
       - chimagery
-      - brightness
       - ID_alignment
       - splitting-grids
+      - iD Editor Task
+      - Save iD
   - group: Buildings
     tips:
       - Buildings
+      - iD Copy Buildings
   - group: Roads
     tips:
       - canaanroads
