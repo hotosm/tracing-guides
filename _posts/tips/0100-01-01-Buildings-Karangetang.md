@@ -10,4 +10,4 @@ images:
 tags: [Karangetang, Buildings]
 ---
 
-To trace, select the Area tool (Shortcut: 3) and draw around the building/wall. Note that once you've traced a building, you can square the corners easily by hovering and clicking the icon (Shortcut: s)
+To trace, select the Area tool (Shortcut: 3) and draw around the building/wall. Note that once you've traced a building, you can square the corners easily by hovering and clicking the icon (Shortcut: s) Please avoid joining or overlapping buildings unless necessary.
