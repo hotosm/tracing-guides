@@ -7,22 +7,18 @@ banner:
   - https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png
 footer: 
 tips:
-  - group: Getting Started
     tips:
-  - group: Buildings
-    tips:
-      - Mozambique_mbuildings
-      - Mozambique_thatched_roof_buildings
-      - Mozambique_cwbuildings
   - group: Roads
     tips:
       - Mozambique_secondary_roads
       - TRoads_Mozambique	
       - mozambique_rroad
       - roads-intersect
-  - group: Imagery Alignment
+   - group: Buildings
     tips:
-      - ID_alignment
+      - Mozambique_mbuildings
+      - Mozambique_thatched_roof_buildings
+      - Mozambique_cwbuildings
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
