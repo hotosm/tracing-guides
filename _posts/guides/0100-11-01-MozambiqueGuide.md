@@ -18,7 +18,6 @@ tips:
     tips:
       - Mozambique_mbuildings
       - Mozambique_thatched_roof_buildings
-      - Mozambique_cwbuildings
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
