@@ -12,7 +12,7 @@ tips:
       - TRoads_Mozambique	
       - mozambique_rroad
       - roads-intersect
-   - group: Buildings
+  - group: Buildings
     tips:
       - Mozambique_mbuildings
       - Mozambique_thatched_roof_buildings
