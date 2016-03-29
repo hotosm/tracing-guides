@@ -1,6 +1,6 @@
 ---
-tipid: common areas
-title: Common Areas
+tipid: ditches
+title: ditches
 category: tip
 layout: tip-preview
 images:
@@ -10,6 +10,6 @@ images:
 tags: [Liberia, Landuse, Residential, Leisure]
 ---
 
-#### Leisure = Common:
+#### waterway = ditch:
 
-Text body
+Use waterway=ditch for simple narrow artificial waterways used to drain nearby land, to remove storm-water or similar. Ditches are usually straight (as opposed to natural streams). They may contain little water or even be dry most of the year - to mark this intermittent=yes may be used.
