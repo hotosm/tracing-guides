@@ -7,6 +7,7 @@ banner: https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-690
 footer: 
 tips:
   - group: Buildings
+<h4> The examples below are meant to help identify buildings in Mozambique using satellite imagery.   Please do not tag the building roof type, it is not needed for this project. </h4>
     tips:
       - Mozambique_mbuildings
       - Mozambique_thatched_roof_buildings
