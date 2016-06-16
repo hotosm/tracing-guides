@@ -3,20 +3,19 @@ title: Malaria Prevention in Mozambique
 subtitle: 
 category: guide
 layout: guide2-2
-banner: 
- - https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png
-footer: 
-tips: 
- - group: Roads
-  tips:
-   - Mozambique_secondary_roads
-   - TRoads_Mozambique	
-   - mozambique_rroad
-   - roads-intersect
- - group: Buildings
-  tips:
-   - Mozambique_mbuildings
-   - Mozambique_thatched_roof_buildings
+banner: https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png
+  footer: 		  footer: 
+  tips:		  tips:
+ +  - group: Buildings
+ +    tips:
+ +      - Mozambique_mbuildings
+ +      - Mozambique_thatched_roof_buildings
+    - group: Roads		    - group: Roads
+      tips:		      tips:
+        - Mozambique_secondary_roads		        - Mozambique_secondary_roads
+        - TRoads_Mozambique			        - TRoads_Mozambique	
+        - mozambique_rroad		        - mozambique_rroad
+        - roads-intersect		        - roads-intersect
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
