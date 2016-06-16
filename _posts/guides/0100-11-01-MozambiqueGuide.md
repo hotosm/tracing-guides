@@ -16,9 +16,6 @@ tips:
     tips:
       - Mozambique_mbuildings
       - Mozambique_thatched_roof_buildings
-  - group: Water
-    tips:
-      - mozambique_waterway
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
