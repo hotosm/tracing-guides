@@ -6,16 +6,17 @@ layout: guide2-2
 banner: https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-6903-11e5-895d-3938b7a82a23.png
 footer: 
 tips:
+  - group: Buildings
+    tips:
+      - Mozambique_mbuildings
+      - Mozambique_thatched_roof_buildings
   - group: Roads
     tips:
       - Mozambique_secondary_roads
       - TRoads_Mozambique	
       - mozambique_rroad
       - roads-intersect
-  - group: Buildings
-    tips:
-      - Mozambique_mbuildings
-      - Mozambique_thatched_roof_buildings
+
 ---
 
 <div id="test" class="col-lg-5 col-sm-6">
@@ -32,7 +33,7 @@ tips:
 
 <h4> Tracing Tips </h4>
 <ul>
-  <li> Save often when editing long linear features such as waterways or roads. These features are continuous and appear in multiple cells across the project area which can cause errors when edited by multiple users. </li>
+  <li> Buildings are the main feature we are mapping for this task.  Peace Corps ground teams will validate building collection and add building type </li>
   <li> Pay close attention to alignment of imagery and adjust when necessary. Imagery should be adjusted to match existing OSM data. </li>
  </ul>
 </div>
