@@ -7,15 +7,15 @@ banner: https://cloud.githubusercontent.com/assets/4990708/10252058/14aba47a-690
 footer: 
 tips:
  - group: Buildings 
-     tips:
-      - Mozambique_mbuildings
-      - Mozambique_thatched_roof_buildings
+  tips:
+   - Mozambique_mbuildings
+   - Mozambique_thatched_roof_buildings
  - group: Roads
-    tips:
-      - Mozambique_secondary_roads
-      - TRoads_Mozambique	
-      - mozambique_rroad
-      - roads-intersect
+  tips:
+   - Mozambique_secondary_roads
+   - TRoads_Mozambique	
+   - mozambique_rroad
+   - roads-intersect
 
 ---
 
