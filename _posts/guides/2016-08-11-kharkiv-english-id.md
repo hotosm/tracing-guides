@@ -10,7 +10,7 @@ tips:
   - ID_alignment
   - id-draw-roads
   - tracing roads nodes
-  - classifying roads generally
+  - id-classifying-roads-tips-w-buttons
   - tertiary roads
   - residential roads 2
   - unclassified roads

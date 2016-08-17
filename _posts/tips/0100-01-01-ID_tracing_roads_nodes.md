@@ -3,6 +3,7 @@ tipid: tracing roads nodes
 title: Tracing Roads
 category: tip
 layout: tip-preview
+content-width: wide
 images:
   - image:
      caption: tracing nodes

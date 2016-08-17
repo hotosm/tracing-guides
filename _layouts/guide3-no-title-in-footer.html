@@ -61,6 +61,13 @@
         {% capture section %}b{% endcapture %}
         {% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
       {% endif %}
+
+      {% if post.content-width %}
+
+        {% if post.content-width == 'wide' %}
+            {% capture divclass %}col-lg-10 col-lg-offset-1 col-sm-push-0 col-sm-0{% endcapture %}
+        {% endif %}
+      {% endif %}
       <div class="content-section-{{ section }}">
         <div class="container">      
             <div class="row">
