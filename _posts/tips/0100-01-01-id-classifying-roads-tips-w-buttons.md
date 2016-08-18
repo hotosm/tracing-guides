@@ -53,5 +53,5 @@ In addition to using the highway tag, one can indicate the physical surface of t
 
 Generically, a hard surface (asphalt, cobblestone, concrete...) can be indicated with paved and a soft one (ground, sand...) with unpaved.
 
-<a href="https://wiki.openstreetmap.org/wiki/Key:highway#Roads" target="_blank"><h3> For more information on how to collect roads, visit the OpenStreetMap Wiki</h3></a>
+<h3><a href="https://wiki.openstreetmap.org/wiki/Key:highway#Roads" target="_blank">For more information on how to collect roads, visit the OpenStreetMap Wiki</a></h3>
 
