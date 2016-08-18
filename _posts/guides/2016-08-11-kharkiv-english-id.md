@@ -3,7 +3,7 @@ title: Kharkiv Mapping Guide
 subtitle: Ukraine
 category: guide
 layout: guide3-no-title-in-footer
-banner: https://cloud.githubusercontent.com/assets/2665840/14114519/3dc80e0a-f5a5-11e5-8b52-b54674ccad42.jpg
+banner: https://github.com/hotosm/tracing-guides/blob/gh-pages/images/kharkiv_univ.jpg?raw=true
 footer: 
   - 
 tips:
