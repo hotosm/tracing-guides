@@ -2,10 +2,12 @@
 title: Kharkiv Mapping Guide
 subtitle: Ukraine
 category: guide
-layout: guide3-no-title-in-footer
+layout: guide3-1
 banner: https://github.com/hotosm/tracing-guides/blob/gh-pages/images/kharkiv_univ.jpg?raw=true
 footer: 
-  - 
+  - image:
+       src: https://cloud.githubusercontent.com/assets/2665840/11611337/2ca01dca-9b96-11e5-95f0-153e0811a897.png
+       link: http://mapgive.state.gov/
 tips:
   - ID_alignment
   - id-draw-roads2
