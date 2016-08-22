@@ -14,6 +14,7 @@ tips:
   - tracing roads nodes
   - id-classifying-roads-tips-w-buttons
   - id-sidewalks
+  - id-crosswalks
   - Buildings
 
 ---
