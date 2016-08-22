@@ -51,15 +51,23 @@
     {% if tip == post.tipid %}
       {% capture thecycle %}{% cycle 'even', 'odd' %}{% endcapture %}
       <!--helped parse YAML: http://stackoverflow.com/questions/12761152/yaml-front-matter-for-jekyll-and-nested-lists-->
-      {% if post.images[0].image.size == 'large' %}
-        {% capture section %}c{% endcapture %}
-        {% capture divclass %}col-lg-5 col-sm-6 col-lg-offset-4{% endcapture %}
-      {% elsif thecycle == 'odd' %}
-        {% capture section %}a{% endcapture %}
-        {% capture divclass %}col-lg-5 col-sm-6{% endcapture %}
+
+      {% if thecycle == 'odd' %}
+            {% if post.images[0].image.size == 'large' or post.videos[0].video.size == 'large' %}
+                {% capture section %}c-a{% endcapture %}
+                {% capture divclass %}col-lg-5 col-sm-6 col-lg-offset-4{% endcapture %}
+            {% else %}
+                {% capture section %}a{% endcapture %}
+                {% capture divclass %}col-lg-5 col-sm-6{% endcapture %}
+            {% endif %}
       {% else %}
-        {% capture section %}b{% endcapture %}
-        {% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
+            {% if post.images[0].image.size == 'large' or post.videos[0].video.size == 'large' %}
+                {% capture section %}c-b{% endcapture %}
+                {% capture divclass %}col-lg-5 col-sm-6 col-lg-offset-4{% endcapture %}
+            {% else %}
+                {% capture section %}b{% endcapture %}
+                {% capture divclass %}col-lg-5 col-lg-offset-1 col-sm-push-6 col-sm-6{% endcapture %}
+            {% endif %}
       {% endif %}
 
       {% if post.content-width %}
@@ -94,6 +102,25 @@
                         <a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
                         <br><br>
                       </div>
+                    {% elsif post.videos %}
+                        {% if post.videos[0].video.size == 'large' %}
+                            <div class="col-lg-12 col-sm-6 col-lg-offset-1">
+                                <br><br>
+                                <video autoplay loop poster="{{ post.videos[0].video.link }}.jpg" id="backgroundgif" class="img-responsive">
+                                    <source src="{{ post.videos[0].video.link }}.webm" type="video/webm">
+                                    <source src="{{ post.videos[0].video.link }}.mp4" type="video/mp4">
+                                </video>
+                                <br><br>
+                          </div>
+                        {% else %}
+                            <div class="col-lg-5 col-sm-6 col-lg-pull-6">
+                              <video autoplay loop poster="{{ post.videos[0] }}.jpg" id="backgroundgif" class="img-responsive">
+                                    <source src="{{ post.videos[0] }}.webm" type="video/webm">
+                                    <source src="{{ post.videos[0] }}.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                            <div class="clearfix"></div>
+                        {% endif %}
                     {% else %}
                       <div class="col-lg-5 col-sm-6 col-lg-offset-2">
                         <a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
@@ -106,6 +133,7 @@
                         <a href="{{ post.images[1] }}"><img class="img-responsive" src="{{ post.images[1] }}" alt="{{  post.images[1] }}"></a>
                       </div>
                     {% endif %}
+
                   {% else %}
                     {% if post.images[0].image.size == 'large' %}
                       <div class="col-lg-12 col-sm-6 col-lg-offset-1">
@@ -113,6 +141,25 @@
                         <a href="{{ post.images[0].image.link }}"><img class="img-responsive" src="{{ post.images[0].image.link }}" alt="{{  post.images[0].image.link }}"></a>
                         <br><br>
                       </div>
+                    {% elsif post.videos %}
+                        {% if post.videos[0].video.size == 'large' %}
+                            <div class="col-lg-12 col-sm-6 col-lg-offset-1">
+                                <br><br>
+                                <video autoplay loop poster="{{ post.videos[0].video.link }}.jpg" id="backgroundgif" class="img-responsive">
+                                    <source src="{{ post.videos[0].video.link }}.webm" type="video/webm">
+                                    <source src="{{ post.videos[0].video.link }}.mp4" type="video/mp4">
+                                </video>
+                                <br><br>
+                          </div>
+                        {% else %}
+                            <div class="col-lg-5 col-sm-6 col-lg-pull-6">
+                              <video autoplay loop poster="{{ post.videos[0] }}.jpg" id="backgroundgif" class="img-responsive">
+                                    <source src="{{ post.videos[0] }}.webm" type="video/webm">
+                                    <source src="{{ post.videos[0] }}.mp4" type="video/mp4">
+                                </video>
+                            </div>
+                            <div class="clearfix"></div>
+                        {% endif %}
                     {% else %}
                       <div class="col-lg-5 col-sm-6 col-lg-pull-6">
                         <a href="{{ post.images[0] }}"><img class="img-responsive" src="{{ post.images[0] }}" alt="{{  post.images[0] }}"></a>
@@ -125,6 +172,7 @@
                         <a href="{{ post.images[2] }}"><img class="img-responsive" src="{{ post.images[2] }}" alt="{{  post.images[2] }}"></a>
                       </div>
                     {% endif %}
+
                   {% endif %}
                 {% endif %}
             </div>

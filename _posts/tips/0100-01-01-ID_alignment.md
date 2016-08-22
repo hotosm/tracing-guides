@@ -4,7 +4,8 @@ tipid: ID_alignment
 category: tip
 layout: tip-preview
 images: 
-  - http://i.imgur.com/cOVMr7x.gif
+videos: 
+  - http://i.imgur.com/cOVMr7x 
 editor: ID
 tags: [imagery,alignment]
 ---
