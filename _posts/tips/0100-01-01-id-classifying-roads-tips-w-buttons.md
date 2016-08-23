@@ -1,6 +1,6 @@
 ---
-tipid: id-classifying-roads-tips-w-buttons
 title: Classifying Roads
+tipid: id-classifying-roads-tips-w-buttons
 categories: tip
 layout: tip-preview
 excerpt:
@@ -13,7 +13,7 @@ images:
 tags: [roads, iD, unpaved, classifying, highway ]
 ---
 
-All roads are classified as some type of highway. Roads are primarily classified based on their function. After drawing a line using iD editor you will select the <img href="https://cloud.githubusercontent.com/assets/2665840/17753387/a0454342-649d-11e6-939b-f7c778cf7660.PNG"> button the you will see the different road classifications. On your right you will see the main types of roads you will typically classify:
+All roads are classified as some type of highway. Roads are primarily classified based on their function. After drawing a line using iD editor you will select the &nbsp; <img src="{{ site.baseurl }}/images/road_features_button.PNG" width="250"> &nbsp; button, then you will see the different road classifications. On your right you will see the main types of roads you will typically classify:
 
 <h3> Residential Road </h3>
 

@@ -15,7 +15,8 @@ tips:
   - id-classifying-roads-tips-w-buttons
   - id-sidewalks
   - id-crosswalks
-  - Buildings
+  - id-buildings2
+  - attached-id-buildings
 
 ---
 
