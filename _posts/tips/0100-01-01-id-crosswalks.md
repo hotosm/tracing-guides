@@ -11,7 +11,7 @@ tags: [Paths, Vehicles, Agriculture]
 
 <img src="{{ site.baseurl }}/images/crosswalk1.jpg" width="400">
 
-<p> A designated pathway for pedestrians to cross. How to collect crosswalks: </p>
+<p> A designated pathway for pedestrians to cross roads. How to collect crosswalks: </p>
 
 <img src="{{ site.baseurl }}/images/path_features_button.png">
 

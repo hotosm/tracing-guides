@@ -28,7 +28,7 @@ tips:
 <h2 class="section-heading">Kharkiv, Ukraine</h2>
 
 <p>
-Help us map the infrastructure of Kharkiv. Using current high-resolution imagery, we will digitize roads, buildings, sidewalks, and crosswalks within the city – helping to further complete a free and open map dataset of Kharkiv. OpenStreetMap will be used as the platform to digitize, store, and share such critical data for usage by first responders, planners and geospatial enthusiasts.
+Help us map the infrastructure of Kharkiv. Using current high-resolution imagery, we will digitize roads, buildings, sidewalks, and crosswalks within the city – helping to further complete a free and open map dataset of Kharkiv. OpenStreetMap is used as the platform to digitize, store, and share such critical data for usage by first responders, planners and geospatial enthusiasts.
 </p>
 
 <p>

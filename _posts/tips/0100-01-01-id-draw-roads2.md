@@ -12,6 +12,6 @@ videos:
 tags: [id, roads]
 ---
 
-The whole process of creating a road is captured in the GIF below.
+The whole process of creating a road is captured in the video below.
 
 
