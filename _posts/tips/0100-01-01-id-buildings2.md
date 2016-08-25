@@ -12,7 +12,7 @@ videos:
 ---
 Tracing buildings takes good imagery and patience. Take your time and pay attention to angularity and alignment between buildings. 
 
-Select new Area (Shortcut: 3) in iD and put a node down at every corner of the buildings roof. Double clicking will complete the area. Now select the Building Features button: 
+Select new Area (Keyboard Shortcut: 3) in iD and put a node down at every corner of the buildings roof. Double clicking will complete the area. Now select the Building Features button: 
 
 <img src="{{ site.baseurl }}/images/building_features_button.PNG">
 
