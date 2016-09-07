@@ -9,14 +9,14 @@ footer:
        src: https://cloud.githubusercontent.com/assets/2665840/11611337/2ca01dca-9b96-11e5-95f0-153e0811a897.png
        link: http://mapgive.state.gov/
 tips:
-  - ID_alignment
-  - id-draw-roads2
-  - tracing roads nodes
-  - id-classifying-roads-tips-w-buttons
-  - id-sidewalks
-  - id-crosswalks
-  - id-buildings2
-  - attached-id-buildings
+  - ID_alignment_ru
+  - id-draw-roads2-ru
+  - tracing-roads-nodes-ru
+  - id-classifying-roads-tips-w-buttons-ru
+  - id-sidewalks-ru
+  - id-crosswalks-ru
+  - id-buildings2-ru
+  - attached-id-buildings-ru
 
 ---
 
@@ -32,7 +32,15 @@ Help us map the infrastructure of Kharkiv. Using current high-resolution imagery
 </p>
 
 <p>
+Помогите нам нанести на карту инфраструктуру Харькова. Используя современные изображения высокого разрешения, мы оцифруем дороги, здания, тротуары, переходы в черте города, тем самым дополняя бесплатный и открытый набор данных о городе Харькове. Мы будем использовать платформу OpenStreetMap для оцифровки, хранения, передачи этих важных данных, которые будут в распоряжении спасателей, планировщиков и энтузиастов геопространственных технологий.
+</p>
+
+<p>
   <a href="https://tasks.hotosm.org/project/1856" target="_blank"> Go to project 1856 on the HOT Tasking Manager</a>
+</p>
+<p>
+  <a href="https://tasks.hotosm.org/project/1856" target="_blank"> Перейти к проекту 1856 в НОТ Tasking Manager
+</a>
 </p>
 </div>
 
