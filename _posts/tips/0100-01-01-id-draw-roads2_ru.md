@@ -12,6 +12,8 @@ videos:
 tags: [id, roads]
 ---
 
-Весь процесс нанесения на карту дороги показан в файле GIF внизу
+The whole process of creating a road is captured in the GIF below.
 
+Весь процесс нанесения на карту дорог показан в файле GIF внизу
 
+Весь процес додавання доріг показано у файлі GIF внизу
