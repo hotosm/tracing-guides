@@ -10,13 +10,13 @@ footer:
        link: http://mapgive.state.gov/
 tips:
   - ID_alignment_ru
+  - id-buildings2-ru
+  - attached-id-buildings-ru
   - id-draw-roads2-ru
   - tracing-roads-nodes-ru
   - id-classifying-roads-tips-w-buttons-ru
   - id-sidewalks-ru
   - id-crosswalks-ru
-  - id-buildings2-ru
-  - attached-id-buildings-ru
 
 ---
 
