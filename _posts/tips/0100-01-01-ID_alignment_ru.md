@@ -5,7 +5,7 @@ category: tip
 layout: tip-preview
 images: 
 videos: 
-  - http://i.imgur.com/cOVMr7x 
+  - http://i.imgur.com/e8khJEm
 editor: ID
 tags: [imagery,alignment]
 ---
