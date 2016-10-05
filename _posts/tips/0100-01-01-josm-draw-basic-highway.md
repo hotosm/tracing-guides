@@ -4,9 +4,10 @@ title: Draw basic highway
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Draw basic highway
-     link: http://i.imgur.com/Qv4WBS4.gif
+     link: http://i.imgur.com/Qv4WBS4
      size: large
 tags: [josm]
 ---

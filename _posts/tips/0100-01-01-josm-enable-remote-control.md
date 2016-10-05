@@ -4,9 +4,10 @@ title: Enable Remote control
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Enable Remote control
-     link: http://i.imgur.com/tznUIGq.gif
+     link: http://i.imgur.com/tznUIGq
      size: large
 tags: [josm]
 ---

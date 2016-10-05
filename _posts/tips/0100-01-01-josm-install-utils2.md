@@ -4,9 +4,10 @@ title: Install utilsplugin2 Plugin
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Install utilsplugin2 Plugin
-     link: http://i.imgur.com/jKF6AsR.gif
+     link: http://i.imgur.com/jKF6AsR
      size: large
 tags: [josm]
 ---

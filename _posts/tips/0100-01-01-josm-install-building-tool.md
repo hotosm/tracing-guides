@@ -4,9 +4,10 @@ title: Install the building tool plug-in
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Install the building tool plug-in
-     link: http://i.imgur.com/YXlxMkQ.gif
+     link: http://i.imgur.com/YXlxMkQ
      size: large
 tags: [josm]
 ---

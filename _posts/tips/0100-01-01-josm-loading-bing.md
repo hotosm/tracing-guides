@@ -4,9 +4,10 @@ title: Load the Correct Imagery
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: loading Bing imagery
-     link: http://i.imgur.com/QwuKIOZ.gif
+     link: http://i.imgur.com/QwuKIOZ
      size: large
 tags: [josm]
 ---

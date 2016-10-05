@@ -4,9 +4,10 @@ title: Draw roundabout
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Draw roundabout
-     link: http://i.imgur.com/88xyDah.gif
+     link: http://i.imgur.com/88xyDah
      size: large
 tags: [josm]
 ---

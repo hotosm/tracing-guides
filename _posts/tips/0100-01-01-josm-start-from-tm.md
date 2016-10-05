@@ -4,9 +4,10 @@ title: Start JOSM from Tasking Manager
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Start JOSM from Tasking Manager
-     link: http://i.imgur.com/RfEKq7X.gif
+     link: http://i.imgur.com/RfEKq7X
      size: large
 tags: [josm]
 ---
