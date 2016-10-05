@@ -4,7 +4,7 @@ title: Install JOSM
 category: tip
 layout: tip-preview
 images:
-  - https://josm.openstreetmap.de/browser/trunk/images/logo.png?format=raw
+  - '../images/josm-logo.png'
 tags: [josm]
 ---
 
