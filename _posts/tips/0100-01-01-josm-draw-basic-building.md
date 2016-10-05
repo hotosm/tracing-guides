@@ -4,9 +4,10 @@ title: Draw basic building
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Draw basic building
-     link: http://i.imgur.com/ZGxTRVn.gif
+     link: http://i.imgur.com/ZGxTRVn
      size: large
 tags: [josm]
 ---

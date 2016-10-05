@@ -4,9 +4,10 @@ title: Draw with building tool
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Draw with building tool
-     link: http://i.imgur.com/MEUQxUN.gif
+     link: http://i.imgur.com/MEUQxUN
      size: large
 tags: [josm]
 ---

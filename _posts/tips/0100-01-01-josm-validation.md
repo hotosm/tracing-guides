@@ -4,9 +4,10 @@ title: Validate your work
 category: tip
 layout: tip-preview
 images:
-  - image:
+videos:
+  - video:
      caption: Validate your work
-     link: http://i.imgur.com/nWpvRPj.gif
+     link: http://i.imgur.com/nWpvRPj
      size: large
 tags: [josm]
 ---

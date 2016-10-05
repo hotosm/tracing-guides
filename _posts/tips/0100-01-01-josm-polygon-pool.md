@@ -4,7 +4,8 @@ title: Draw pool
 category: tip
 layout: tip-preview
 images:
-  - http://i.imgur.com/EYqAFTk.gif
+videos: 
+  - http://i.imgur.com/EYqAFTk
 tags: [josm]
 ---
 

@@ -4,7 +4,8 @@ title: Shift building polygon to base of building
 category: tip
 layout: tip-preview
 images:
-  - http://i.imgur.com/AfbSDjg.gif
+videos: 
+  - http://i.imgur.com/AfbSDjg
 tags: [josm]
 ---
 

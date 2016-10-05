@@ -4,7 +4,8 @@ title: Draw basketball court
 category: tip
 layout: tip-preview
 images:
-  - http://i.imgur.com/ff6bnpW.gif
+videos: 
+  - http://i.imgur.com/ff6bnpW
 tags: [josm]
 ---
 
